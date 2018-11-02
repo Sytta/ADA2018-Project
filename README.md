@@ -1,4 +1,4 @@
-# Do You Know Who is at Risk for Mental Illness?
+# Who is at Risk for Mental Illness?
 
 # Abstract
 
@@ -30,8 +30,10 @@ The data contains information on adults who have reported depression and can be 
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 Organization for Economic Co-operation and Development (OECD) Dataset: https://stats.oecd.org/Index.aspx?DataSetCode=EAG_ESO#
-The data contains information on adults who have reported depression and can be segmented by country, age, education level, and employment.
+The data is in CSV format and contains information on adults who have reported depression and can be segmented by country, age, education level, and employment.
 
+GHDx Global Burden of Disease Study: http://ghdx.healthdata.org/gbd-2016 
+The link contains many datasets in CSV format. One dataset in particular includes the countries, year, population, and prevalence of mental illness in females/males as a %. Although not all country contains information, this will still be useful in analyzing how mental illness has changed over time (from 1800 - 2016), and it allows us to segment this data by country and gender. 
 
 # A list of internal milestones up until project milestone 2
 
