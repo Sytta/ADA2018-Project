@@ -12,7 +12,6 @@ We will be using multiple datasets for this project. One major dataset is provid
 
 The data contains information on adults who have reported depression and can be segmented by country, age, education level, and employment.
 
-
 # Research questions
 - Is mental illness prevalence similar across countries/regions?
     - If not, what could be the reason behind this? (ex. working hours, minimum wage laws, retirement age)
@@ -27,7 +26,10 @@ The data contains information on adults who have reported depression and can be 
 - Suicide rates due to mental illnesses across regions
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
+We will be using multiple datasets for this project. One major dataset is provided by the Organization for Economic Co-operation and Development (OECD) and is located here: http://www.who.int/whr/2001/media_centre/press_release/en/
+
+The data contains information on adults who have reported depression and can be segmented by country, age, education level, and employment.
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
