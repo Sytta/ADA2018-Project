@@ -27,12 +27,38 @@ The data contains information on adults who have reported depression and can be 
 
 # Dataset
 
+List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
 Organization for Economic Co-operation and Development (OECD) Dataset: https://stats.oecd.org/Index.aspx?DataSetCode=EAG_ESO#
 The data contains information on adults who have reported depression and can be segmented by country, age, education level, and employment.
 
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+
+**Before project milestone 2**:
+
+**02.11.2018**: Decide on topic and major dataset
+
+**05.11.2018**: Conduct research on other datasets that can be used to draw further insights
+
+**17.11.2018**: Complete data exploration and finalize specific research goals
+
+**10.11.2018**: Perform analytics and begin to draw quantitative insights
+
+**20.11.2018**: Analysis of entire dataset complete and conclusions drawn
+
+**24.11.2018**: Completed milestone 2: Finish project repo with all insights and conclusions formed
+
+**After project milestone 2**:
+
+**05.12.2018**: First design of data story
+
+**10.12.2018**: Rough copy of data story and visualisation complete
+
+**15.12.2018**: Finalized Data Story and notebook
+
+**21.12.2018**: Create poster, demo of visualisation
+
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
