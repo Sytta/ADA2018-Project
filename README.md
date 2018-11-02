@@ -8,7 +8,7 @@ Our goal for this project is separated into two components:
 1. Develop insights on key risk factors of mental illness
 2. Identify treatments/solutions that have or have not worked in the past
 
-We will be using multiple datasets for this project. One major dataset is provided by the Organization for Economic Co-operation and Development (OECD) and is located here: http://www.who.int/whr/2001/media_centre/press_release/en/
+We will be using multiple datasets for this project. One major dataset is provided by the Organization for Economic Co-operation and Development (OECD) and is located here: https://stats.oecd.org/Index.aspx?DataSetCode=EAG_ESO#
 
 The data contains information on adults who have reported depression and can be segmented by country, age, education level, and employment.
 
