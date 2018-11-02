@@ -37,7 +37,7 @@ The link contains many datasets in CSV format. One dataset in particular include
 
 # A list of internal milestones up until project milestone 2
 
-**Before project milestone 2**:
+***Before project milestone 2***:
 
 **02.11.2018**: Decide on topic and major dataset
 
@@ -51,7 +51,7 @@ The link contains many datasets in CSV format. One dataset in particular include
 
 **24.11.2018**: Completed milestone 2: Finish project repo with all insights and conclusions formed
 
-**After project milestone 2**:
+***After project milestone 2***:
 
 **05.12.2018**: First design of data story
 
