@@ -1,4 +1,4 @@
-# Who Do You Know at Risk for Mental Illness?
+# Do You Know Who is at Risk for Mental Illness?
 
 # Abstract
 
@@ -27,9 +27,9 @@ The data contains information on adults who have reported depression and can be 
 
 # Dataset
 
-We will be using multiple datasets for this project. One major dataset is provided by the Organization for Economic Co-operation and Development (OECD) and is located here: http://www.who.int/whr/2001/media_centre/press_release/en/
-
+Organization for Economic Co-operation and Development (OECD) Dataset: https://stats.oecd.org/Index.aspx?DataSetCode=EAG_ESO#
 The data contains information on adults who have reported depression and can be segmented by country, age, education level, and employment.
+
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
