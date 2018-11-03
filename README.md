@@ -63,4 +63,4 @@ The link contains many datasets in CSV format. One dataset in particular include
 
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+- Do we need to find all our datasets before beginning the project? We expect to need to have to research for more data when we will be doing the project. Is it acceptable?
