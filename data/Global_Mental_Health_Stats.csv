@@ -1,0 +1,533 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1990,180.3815614,218.4042081,165.4669249
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1990,128.290234,146.8856016,112.6572634
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1990,52.09132736,75.56936998,43.52017186
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1990,180.3815614,218.4042081,165.4669249
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1992,194.2349549,233.9373654,178.7324545
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1992,194.2349549,233.9373654,178.7324545
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1992,138.8858221,159.1752503,122.5616958
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1992,55.34913273,80.95774079,46.37135185
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1991,185.7001814,224.6341065,170.4930315
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1991,185.7001814,224.6341065,170.4930315
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1991,132.0482925,151.4283255,116.5893392
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1991,53.6518889,77.79125738,44.82603327
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1994,219.0919286,259.2979483,203.0476375
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1994,219.0919286,259.2979483,203.0476375
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1994,158.7655158,181.1450141,141.0158704
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1994,60.32641281,88.81834295,50.47228763
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1993,208.2719661,248.295252,192.064375
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1993,150.1638181,171.8350518,133.6621315
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1993,58.10814805,85.64117974,48.43147096
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1993,208.2719661,248.295252,192.064375
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1997,247.9466871,287.3665683,231.6253475
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1997,247.9466871,287.3665683,231.6253475
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1997,184.7579119,207.0973994,165.4256994
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1997,63.18877516,92.8200372,52.97245389
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1996,236.8314244,276.9561707,220.493041
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1996,236.8314244,276.9561707,220.493041
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1996,174.6453676,197.3892888,155.8817836
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1996,62.18605681,91.65823668,52.07949307
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1995,228.7665757,270.9476093,211.698567
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1995,228.7665757,270.9476093,211.698567
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1995,167.3513203,191.4280182,149.2340579
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1995,61.41525535,90.42231519,51.18712713
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1999,257.1694636,298.0112427,239.5595591
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1999,257.1694636,298.0112427,239.5595591
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1999,193.6358579,215.5030446,173.6652086
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1999,63.5336057,95.01194906,52.71902143
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2000,255.7082445,295.6903537,238.2387709
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1998,250.4845461,289.8231212,233.9893605
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1998,250.4845461,289.8231212,233.9893605
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1998,188.2451628,210.0200718,168.3230874
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1998,62.23938332,92.88084626,51.8117107
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2001,257.9721111,295.6326448,241.0728864
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2001,257.9721111,295.6326448,241.0728864
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2001,193.0009696,212.6960251,171.1336286
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2001,64.97114152,96.67484935,54.31557626
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2000,255.7082445,295.6903537,238.2387709
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2000,191.0409574,211.8702917,170.4057015
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2000,64.66728704,96.29214999,53.76426254
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2003,266.5509551,299.6511844,250.3241695
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2003,200.2288251,217.2361683,176.684945
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2003,66.32213004,96.68156731,55.88023065
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2007,272.3423288,302.8680957,257.0600123
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2007,272.3423288,302.8680957,257.0600123
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2007,202.8458253,218.3279603,176.4740318
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2007,69.49650352,100.5582711,59.18247913
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2004,264.3886221,295.5711561,248.5237259
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2004,264.3886221,295.5711561,248.5237259
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2004,198.1456524,214.6244661,173.2465469
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2004,66.24296969,95.9462789,55.89607832
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2003,266.5509551,299.6511844,250.3241695
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2002,263.3695182,298.3420144,246.6584992
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2002,196.8933456,215.2147355,174.2319567
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2002,66.47617265,97.56252603,55.80017548
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2005,265.3927057,296.5719737,249.3355446
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2005,265.3927057,296.5719737,249.3355446
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2005,197.6497998,214.299528,173.3060993
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2005,67.7429059,97.90057472,57.25832215
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2002,263.3695182,298.3420144,246.6584992
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2006,266.3415409,296.6864253,250.4930729
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2006,266.3415409,296.6864253,250.4930729
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2006,198.0774287,213.769896,173.0136707
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2006,68.26411224,98.5878797,57.81936972
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2009,284.7360708,317.3630377,267.4240665
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2009,211.4507228,228.8593417,185.8441808
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2009,73.28534799,106.3528052,62.68449762
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2008,279.538473,311.2571557,263.6321638
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2008,279.538473,311.2571557,263.6321638
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2008,208.3026732,224.7271512,182.1554475
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2008,71.23579975,103.3415237,60.83527301
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2009,284.7360708,317.3630377,267.4240665
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2011,296.0417836,326.3942856,277.1234376
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2011,296.0417836,326.3942856,277.1234376
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2011,220.0460747,236.9607255,192.2947326
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2011,75.99570882,107.8448187,65.14703664
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2012,298.4176482,325.0939194,279.4033405
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2012,298.4176482,325.0939194,279.4033405
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2012,221.092796,238.055213,192.3094261
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2012,77.32485217,107.6261791,66.50914096
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2013,299.6844664,325.6645952,279.442293
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2013,299.6844664,325.6645952,279.442293
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2013,221.752434,238.8153856,192.6542685
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2013,77.9320324,108.4158213,66.73309497
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2015,312.8385317,337.6900107,288.7714007
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2015,312.8385317,337.6900107,288.7714007
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2015,229.9407282,250.5907871,199.0858414
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2015,82.89780352,114.4763027,70.42336101
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2010,290.5815343,322.5420112,272.9443051
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2010,290.5815343,322.5420112,272.9443051
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2010,216.0400764,232.7613529,189.2257672
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2010,74.54145799,106.916364,63.77678924
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2017,326.4711226,357.1572086,296.2213498
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2017,326.4711226,357.1572086,296.2213498
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2017,238.6134979,263.971062,205.6792686
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2017,87.85762476,122.3433355,73.29730352
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2016,319.4948958,345.974429,292.746782
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2016,319.4948958,345.974429,292.746782
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2016,234.3075238,256.9068547,203.00276
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2016,85.18737204,118.8190423,71.76966152
+1,Deaths,1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2014,308.0791767,333.1082615,286.4575534
+1,Deaths,1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2014,308.0791767,333.1082615,286.4575534
+1,Deaths,1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2014,227.6110733,246.5620506,198.4902763
+1,Deaths,1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2014,80.46810346,110.9954909,68.78410457
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1991,83638237.05,108095827.2,62367883.33
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1991,7963376.97,9824464.752,5949321.613
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1990,28251850.21,38668606.16,20059412.01
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1990,22096217.88,30242295.74,15398747.67
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1990,6155632.327,8957625.779,4131475.258
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1990,6019261.511,8894775.731,3799555.247
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1990,18169040.26,24291082.6,12862198.74
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1990,2057465.709,2987106.127,1317759.483
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1990,488994.3282,719938.4672,301989.0837
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1990,1568471.381,2337178.359,990322.3682
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1990,3458340.879,4760898.803,2347070.659
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1990,692311.6721,1099322.08,418166.2664
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1990,5295076.908,8457413.83,3200253.801
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1990,3580905.45,5942096.229,1813860.675
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1990,6858525.97,9485027.641,4531778.712
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1990,82174004.51,106197990.6,61252296.61
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1990,7791225.938,9610271.707,5829247.474
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1991,22524423.78,30697405.61,15694323.05
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1991,6281823.926,9136967.015,4219432.024
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1991,6127072.806,9038134.596,3867923.65
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1991,18471973.8,24627344.05,13059803.38
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1991,2094905.841,3038913.587,1346244.343
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1991,495958.0722,732790.146,306945.2265
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1991,1598947.769,2387653.727,1010384.15
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1991,3508264.53,4829477.897,2392340.881
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1991,703172.9689,1112483.314,426657.8113
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1991,5337470.523,8526442.359,3239023.498
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1991,3622492.493,6012823.943,1838714.521
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1991,7003259.408,9677382.254,4627571.238
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1993,29888545.98,40819910.07,21215757.84
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1993,23352426.4,31658067.24,16310643.81
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1993,6536119.572,9510110.492,4384513.535
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1993,6342912.43,9362872.074,4010023.108
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1993,19094647.93,25470299.9,13485522.88
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1993,2170311.039,3169705.981,1399743.933
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1993,510759.8022,753195.1849,318184.3023
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1993,1659551.237,2472131.928,1047930.187
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1993,3603893.973,4968116.473,2463191.343
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1993,724448.8028,1144658.22,440747.2653
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1993,5447933.723,8728255.055,3299300.893
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1993,3703204.74,6160214.413,1882677.675
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1993,7293062.313,10097506.43,4829705.207
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1994,30412255.5,41524468.62,21579305.33
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1994,23747576.47,32248623.22,16575748.41
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1994,6664679.024,9696395.884,4466494.764
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1994,6450441.35,9524954.308,4078013.772
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1994,19412072.51,25897692.57,13730243.58
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1994,2208304.401,3215480.689,1420321.803
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1994,518113.2343,760107.8207,321211.385
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1994,1690191.167,2523780.463,1070091.178
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1994,3649340,5029428.641,2490085.194
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1994,734481.4943,1157302.998,446708.0374
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1994,5513950.942,8806748.604,3341663.883
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1994,3736604.858,6215819.428,1902659.409
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1994,7435537.471,10281666.32,4923000.197
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1991,28806247.71,39362707.33,20475903.01
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1992,85113632.84,110042782.4,63483818.98
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1992,8134667.307,10033720.45,6075516.952
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1992,29355420.46,40063985.32,20859303.08
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1992,22945785.46,31146452.52,16009746.65
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1992,6409634.998,9326249.657,4297273.299
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1992,6234396.36,9193863.573,3936160.695
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1992,18782435.41,25036347.6,13297611.56
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1992,2132411.067,3096452.56,1364076.381
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1992,503274.9156,742382.6668,311776.7588
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1992,1629136.151,2431736.19,1031436.633
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1992,3557270.555,4898664.034,2423737.016
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1992,713961.4666,1129093.625,432239.5539
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1992,5388812.913,8631371.469,3263967.512
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1992,3664579.886,6102457.237,1861073.036
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1992,7149677.422,9900113.129,4728696.558
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1994,88031634.8,113707165.3,65680028.46
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1994,8478646.273,10455506.61,6305859.155
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1996,91009828.18,117448092.6,67854051.25
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1996,8818340.815,10902666.32,6571329.987
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1993,86576843.37,111859872.2,64573687.44
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1993,8307882.442,10243159.76,6208520.402
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1995,89488200.43,115482282.1,66732388.22
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1995,8648540.451,10652748.46,6460821.508
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1995,30924849.81,42236149.2,21924507.23
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1995,24131707.22,32845834.01,16820569.5
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1995,6793142.583,9896306.082,4551648.065
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1995,6561781.003,9697747.105,4142637.96
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1995,19735699.71,26286015.47,13962617.97
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1995,2247248.833,3261812.627,1442078.85
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1995,525840.1802,775457.936,326807.6419
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1995,1721408.653,2576036.565,1082809.9
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1995,3695001.058,5088978.325,2519410.994
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1995,744269.8374,1172686.689,452284.0603
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1995,5586179.048,8926691.269,3383270.148
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1995,3767093.586,6281858.705,1915989.483
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1995,7577537.098,10478759.2,5018996.595
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1997,32004156,43665998.45,22650947.55
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1997,24966244.28,34003949.97,17426276.72
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1997,7037911.715,10268529.65,4719411.999
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1997,6794949.154,10051196.44,4293433.739
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1997,20524665,27439668.4,14517236.38
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1997,2331187.065,3387614.198,1505597.766
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1997,543590.2613,801686.3741,340458.5491
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1997,1787596.804,2665213.069,1133999.799
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1997,3785994.41,5218907.342,2580518.357
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1997,763565.5857,1204289.899,462455.9746
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1997,5745349.813,9167747.081,3479417.901
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1997,3818364.162,6372617.517,1942323.766
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1997,7866399.502,10904128.39,5199121.294
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1998,94270245.78,121686743.1,70260492.74
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1998,9163368.606,11307692.67,6837262.023
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1996,31450495.46,42916372.36,22282442.63
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1996,24531944.46,33391788.64,17089258.27
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1996,6918551.001,10083252.85,4633684.9
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1996,6676230.953,9872598.671,4227048.972
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1996,20102199.99,26790996.79,14203242.15
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1996,2288271.43,3322736.595,1475552.698
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1996,534310.2953,787247.9867,331385.4525
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1999,33156273.77,45218392.74,23471501.93
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1999,25874769.9,35122391.13,18061624.37
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1999,7281503.875,10663616.74,4866663.081
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1999,7036774.909,10382034.65,4446389.775
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1999,21393534.71,28610199.76,15121385.58
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1999,2422460.196,3523224.206,1562738.044
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1999,563194.7769,833829.2218,353567.5036
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1999,1859265.419,2765218.405,1177980.09
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1999,3875882.463,5328856.188,2650643.475
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1999,781058.5292,1231822.578,473358.7874
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1999,5883452.117,9385930.025,3555679.932
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1999,3863328.984,6470119.878,1943744.036
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1999,8162360.296,11276648.74,5388289.716
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1998,1823018.046,2701925.472,1151635.768
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1998,3831251.249,5282389.059,2609691.903
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1998,772646.5537,1217477.386,468976.2684
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1998,5818540.019,9283908.689,3527994.601
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1998,3840806.749,6408424.943,1943304.784
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1998,8014559.441,11077943.19,5300295.814
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1997,92625013.13,119624035.7,69090346.03
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1997,8990382.442,11079728.86,6717555.521
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,1996,1753961.135,2610408.641,1109230.081
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,1996,3739704.78,5160203.549,2557298.688
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,1996,753993.2003,1188014.646,458642.2498
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,1996,5665300.881,9034189.404,3429661.203
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,1996,3794185.051,6336391.684,1927692.594
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,1996,7721105.623,10691073.8,5104153.515
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,1999,95912243.79,123810834.3,71474872.63
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,1999,9337117.816,11494964.9,6975663.879
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2001,99095734.22,127825184.3,73980601.21
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2001,9688427.334,11919825.65,7250819.496
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2000,97516214.84,125767652.6,72732599.51
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2000,9512517.427,11712160.87,7117896.035
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,1998,32573632.58,44429485.13,23090358.45
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,1998,25417866.92,34543367.11,17752747.32
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,1998,7155765.663,10474043.67,4786341.491
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,1998,6915240.049,10232042.71,4371754.692
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,1998,20963900.26,28011378.31,14843859.42
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,1998,2376300.27,3450816.491,1531212.207
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,1998,553282.2241,818202.3497,345896.3696
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2001,34334929.75,46842357.03,24307628.25
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2001,26770710.37,36323720.68,18688207.01
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2001,7564219.381,11096595.92,5055819.439
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2001,7286414.815,10800866.9,4596252.667
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2001,22129627.77,29516429.31,15613482.72
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2001,2515096.131,3659833.993,1621022.912
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2001,581571.8991,859804.9147,363439.1821
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2001,1933524.232,2870981.698,1233665.148
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2001,3965964.92,5473567.073,2708760.24
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2001,795656.0901,1256638.402,482645.6352
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2001,5995018.618,9586984.447,3628436.752
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2001,3917330.801,6579264.794,1950689.642
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2001,8467267.998,11729761.83,5600786.409
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2002,100688738.3,129748347.3,75196840.51
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2002,9866893.614,12134477.52,7394860.244
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2002,34953959.46,47692026.43,24771734.85
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2002,27238868.95,36891329.3,19059940.55
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2002,7715090.51,11301138.79,5164248.574
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2002,7415473.161,10950181.59,4689773.7
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2002,22454540.52,29948167.83,15866329.2
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2002,2566524.633,3733877.169,1652763.927
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2002,591707.4706,874068.1126,372090.6558
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2002,1974817.163,2933193.905,1255028.968
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2002,4011488.844,5536360.272,2735325.299
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2002,802091.9295,1264921.07,484078.2156
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2002,6042848.604,9660804.729,3659723.21
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2002,3949348.729,6630162.469,1961701.929
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2002,8625568.788,11932278.48,5714414.724
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2005,36837747.11,50235037.95,26079157.77
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2003,35583291.8,48483341.22,25203836.74
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2003,27715549.5,37563303.5,19370640.59
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2003,7867742.293,11548280.07,5267795.551
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2003,7545460.722,11165209.89,4763095.185
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2003,22765025.79,30268191.01,16045086.15
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2003,2618724.121,3804239.21,1689444.196
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2003,601991.9967,888276.7616,376949.7005
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2003,2016732.125,3001898.387,1287794.666
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2003,4057551.475,5587106.139,2770136.347
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2003,808135.1411,1275002.853,489539.5785
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2003,6084662.225,9730616.889,3676103.214
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2003,3980928.555,6680836.534,1975855.593
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2003,8785314.485,12125436.7,5812803.07
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2000,33737328.31,45992904.35,23862778.87
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2000,26320137.62,35719796.92,18374282.94
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2000,7417190.685,10897053.84,4957313.49
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2000,7160529.102,10585537.67,4521537.399
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2000,21783286.83,29099614.56,15390559.22
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2000,2468058.232,3580315.103,1588189.398
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2000,572269.3056,843443.1013,357655.0461
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2000,1895788.926,2811777.304,1204928.343
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2000,3920927.891,5408323.372,2676689.243
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2000,788801.3872,1244659.636,477431.1968
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2000,5941840.174,9472462.878,3588344.861
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2000,3888832.151,6519246.549,1950952.343
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2000,8314093.335,11490659.53,5501205.047
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2005,28655848.98,38753658.59,20031586.97
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2005,8181898.122,11970503.02,5473463.743
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2005,7804318.737,11527739.96,4938639.797
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2005,23399447.62,31043536.48,16522728.38
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2005,2721639.335,3954171.638,1755164.715
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2005,621397.5394,917286.8212,386759.3366
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2005,2100241.796,3125051.352,1335588.908
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2005,4150162.934,5723105.301,2837612.829
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2005,819637.2152,1298034.903,496128.949
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2005,6135208.531,9823502.512,3694659.025
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2005,4031437.297,6781853.938,1989953.578
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2005,9111162.251,12577960.44,6024612.551
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2004,103855121.2,133895355.7,77556967.29
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2004,10228650.09,12581236.02,7620062.015
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2003,102276314.9,131869919.7,76347308.7
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2003,10047220.62,12375486.87,7495196.088
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2005,105425895.4,135787260.7,78683906.14
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2005,10415134.41,12825759.71,7762868.611
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2007,37694815.35,51425244.24,26706735.95
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2006,37343089.26,50885379.03,26443491.54
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2006,28998740.43,39264644.59,20277359.82
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2006,8344348.831,12213662.68,5583767.699
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2006,7934549.906,11764989.72,5011216.854
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2006,23723500.73,31513334.32,16767770.3
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2006,2774642.069,4035986.45,1783304.762
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2006,631025.4987,933578.6123,393364.7837
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2007,29180638.17,39581883.95,20387070.06
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2007,8514177.183,12451704.29,5683580.448
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2007,8064192.005,11936277.17,5094080.236
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2007,24042651.25,31953650.93,16995822.8
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2007,2833163.755,4116263.89,1820156.998
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2007,641847.0297,950058.5542,398293.6944
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2007,2191316.725,3252359.771,1386074.148
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2007,4245534.86,5851792.198,2896413.1
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2007,831465.3435,1316159.451,504055.9521
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2007,6147553.92,9813614.804,3702044.859
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2007,4044655.492,6811409.793,1991648.94
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2007,9447257.428,13055934.85,6248682.731
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2008,109387282.2,140767765.8,81802255.21
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2008,11004720.64,13530173.33,8217196.841
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2006,106866276.3,137614373.9,79906930.19
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2006,10605237.2,13070500.63,7913993.507
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2006,2143616.57,3181989.922,1360726.621
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2006,4196451.051,5772870.299,2873135.729
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2006,825391.6321,1306272.869,501052.8988
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2006,6143470.945,9834835.132,3685335.658
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2006,4042653.211,6793994.104,1991500.102
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2006,9277290.257,12802556.96,6137765.689
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2007,108153082.2,139275260.9,80876917.15
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2007,10801792.79,13298611.77,8041015.996
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2009,38321498.53,52182329.93,27115885.3
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2009,29460024.12,39988503.88,20575467.21
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2009,8861474.409,12949332.4,5903168.913
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2009,8324095.622,12325191.23,5266671.067
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2009,24687301.71,32849651.61,17515330.37
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2009,2955699.068,4310366.792,1899780.714
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2009,663447.8679,986636.6795,410908.1754
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2009,2292251.2,3413405.497,1450381.294
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2009,4345676.761,5978556.487,2966722.162
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2009,843712.7473,1338719.149,515974.5976
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2009,6162063.854,9869360.381,3711169.257
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2009,4039736.067,6799719.034,1975469.052
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2009,9793282.745,13505077.62,6475213.457
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2004,2059015.896,3052576.549,1300973.815
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2004,4103451.898,5648034.494,2799710.991
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2004,813896.5654,1288335.106,489589.0704
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2004,6115778.441,9785597.207,3688182.589
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2004,4008263.758,6739651.306,1979221.862
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2004,8947405.561,12380260.33,5915648.34
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2010,112088071.3,144208547.3,83779778.51
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2010,11401770.9,14046101.55,8544168.041
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2009,110679621,142397094.3,82705432.51
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2009,11206553.87,13816114.51,8363366.582
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2004,36214790.75,49378977.16,25652253.02
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2004,28190973,38138720.09,19700349.69
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2004,8023817.749,11763243.58,5366735.426
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2004,7674946.931,11359891.01,4836540.854
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2004,23076983.76,30634555.08,16297808.72
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2004,2670953.42,3881029.772,1716676.205
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2004,611937.5237,902674.8537,382013.0369
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2010,38802803.09,52776540.65,27438887.94
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2010,29771219.52,40386213.32,20843811.26
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2010,9031583.57,13208746.74,6006673.304
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2010,8447929.103,12498093.16,5343396.407
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2010,25004880.46,33338990.17,17692884.29
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2010,3010295.074,4391166.354,1929322.915
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2010,672767.3599,996621.9313,419009.1543
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2010,2337527.714,3476733.622,1477199.661
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2010,4394688.99,6036835.425,3001127.09
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2010,849280.4592,1340012.306,517026.4643
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2010,6171899.913,9863872.318,3710949.607
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2010,4043224.191,6801219.111,1987046.475
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2010,9961299.134,13783502.12,6582041.331
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2011,39411707.42,53685884.13,27866244.45
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2011,30211675.57,40920832.74,21135481.43
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2011,9200031.85,13444693.18,6123584.195
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2011,8569954.239,12697914.72,5424513.263
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2011,25319700.27,33676600.38,17940904.99
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2011,3061651.012,4451502.467,1967412.732
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2011,681271.5632,1011494.462,424264.3242
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2011,2380379.449,3550551.11,1503775.041
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2011,4442748.887,6124365.629,3033915.671
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2011,854548.5679,1350325.497,521238.0437
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2011,6188156.739,9907609.871,3728724.133
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2011,4051303.715,6829378.697,1980656.789
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2011,10128423.97,14006792.33,6699233.604
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2008,37984227.12,51756152.41,26896297.3
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2008,29296944.98,39701862.69,20451646.85
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2008,8687282.14,12715051.41,5789973.234
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2008,8193687.619,12107640.97,5184079.581
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2008,24362145.14,32357886.92,17249577.56
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2008,2894818.216,4196136.517,1861633.127
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2008,653011.6747,967160.4966,407660.9889
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2008,2241806.541,3343611.739,1416669.94
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2008,4295516.23,5918232.475,2936294.793
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2008,837519.3789,1324536.062,510027.6571
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2008,6152258.563,9843226.081,3708796.86
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2008,4042339.512,6794303.339,1982275.24
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2008,9620049.826,13318568.08,6357820.529
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2012,115158552.7,148158734.8,85991243.25
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2012,11784935.16,14486520.36,8781221.618
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2013,40631141.68,55419285.03,28783200.35
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2013,31085602.97,42001728.53,21734990.65
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2013,9545538.707,13970199.72,6381919.028
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2013,8813340.115,13027835.75,5569174.527
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2013,25940076.99,34494842.1,18391816.18
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2013,3164957.917,4592286.426,2031876.4
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2013,697168.2522,1028777.473,434040.6749
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2013,2467789.665,3683675.185,1565132.622
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2013,4541250.147,6260042.379,3104466.754
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2013,865928.216,1371437.695,531203.651
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2013,6244762.519,10011787.8,3756027.187
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2013,4064713.675,6867791.392,1970440.738
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2013,10462192.75,14427747.37,6930831.322
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2014,118222899,152042702.6,88221480.42
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2014,12151367.15,14934284.22,9064884.54
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2014,41243775.94,56312039.9,29209768.69
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2014,31522097.64,42585361.31,22022034.35
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2014,9721678.302,14244506.05,6499767.226
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2014,8933305.012,13183954.87,5655309.912
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2014,26240571.05,34857239.77,18642013.08
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2014,3216188.812,4662046.12,2065168.581
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2014,705279.1552,1047021.333,439466.5945
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2013,116698011.9,150151925.3,87079067.63
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2013,11969647.86,14722985.51,8908889.41
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2015,31956351.65,43086161.4,22400739.56
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2015,9896507.904,14483372.82,6625084.169
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2015,9051994.489,13408645.28,5723770.059
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2015,26533220.32,35283866.21,18867834.08
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2015,3266775.571,4739416.98,2095529.554
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2015,712805.5623,1052599.739,441743.609
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2015,2553970.009,3807352.221,1616211.514
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2015,4636415.205,6374156.821,3161388.937
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2015,877079.4387,1389253.012,534947.1926
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2015,6328368.02,10094119.47,3822728.591
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2015,4061225.408,6871533.357,1960892.028
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2015,10788495.03,14890525.62,7151609.259
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2015,41852859.55,57087652.74,29667165.4
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2014,2510909.656,3748821.942,1592097.913
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2014,4590048.214,6318823.472,3137023.602
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2014,871651.8495,1381200.249,535255.8177
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2014,6283647.755,10049857.13,3786918.27
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2014,4065970.77,6860249.745,1965573.003
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2014,10626372.46,14691459.24,7037799.243
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2017,43099909.4,58895581.87,30536443.27
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2017,32846724.96,44291226.04,23081125.09
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2017,10253184.43,14982069.1,6878012.609
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2017,9293778.664,13748492.92,5868193.767
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2017,27121442.32,36106265.68,19248269.67
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2017,3369478.955,4889262.939,2166323.099
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2017,728476.6534,1078806.596,453593.7334
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2017,2641002.302,3941739.178,1664973.78
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2017,4731255.514,6518607.198,3238752.706
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2017,888836.9434,1411847.864,543243.1042
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2017,6445218.236,10299762.52,3869581.916
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2017,4046374.43,6859541.383,1940169.841
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2017,11109607.45,15324612.3,7355543.481
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2012,40019761.11,54515239.58,28311310.72
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2012,30648115.61,41508420.47,21407163.5
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2012,9371645.506,13692344.19,6259619.377
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2012,8692021.33,12888544.77,5493199.916
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2012,25631599.21,34124256.31,18179624.79
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2012,3112893.568,4511752.675,1996282.896
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2012,689241.6936,1022740.332,429393.4732
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2017,122763811.5,157901472.2,91637783.61
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2017,12657909.61,15563745.8,9481923.705
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2011,113621653.6,146208573,84794513.89
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2011,11593458.79,14304696.07,8689088.74
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2016,121240264.2,155845555.8,90458234.79
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2016,12495316.89,15343069.57,9340801.929
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2012,2423651.875,3614943.122,1538126.632
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2012,4491437.963,6187860.175,3077391.833
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2012,860202.1491,1361657.177,524799.0722
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2012,6211410.414,9958721.287,3746270.838
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2012,4058469.145,6854784.301,1973787.561
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2012,10295822.67,14209740.12,6814148.295
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,558,Mental disorders,1,Number,2015,119721777.2,153999836.9,89375027.11
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,559,Schizophrenia,1,Number,2015,12325344.14,15145819.69,9205945.518
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,567,Depressive disorders,1,Number,2016,42470729.91,58051007.53,30132056.8
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,568,Major depressive disorder,1,Number,2016,32396599.97,43636770.83,22722998.85
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,569,Dysthymia,1,Number,2016,10074129.93,14731670.95,6741593.47
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,570,Bipolar disorder,1,Number,2016,9173550.135,13584414.81,5785619.585
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,571,Anxiety disorders,1,Number,2016,26828369.17,35668117.85,19053170.06
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,572,Eating disorders,1,Number,2016,3318853.33,4810490.736,2138941.281
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,573,Anorexia nervosa,1,Number,2016,720845.5862,1067315.722,448824.2869
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,574,Bulimia nervosa,1,Number,2016,2598007.744,3879802.999,1641114.733
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,575,Autism spectrum disorders,1,Number,2016,4683846.994,6452605.302,3201968.759
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,578,Attention-deficit/hyperactivity disorder,1,Number,2016,882847.4718,1398925.775,539920.4008
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,579,Conduct disorder,1,Number,2016,6382615.165,10199948.21,3845838.577
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,582,Idiopathic developmental intellectual disability,1,Number,2016,4054160.099,6863475.912,1951673.132
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All Ages,585,Other mental disorders,1,Number,2016,10949975.04,15112907.4,7242428.122
