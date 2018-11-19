@@ -30,6 +30,6 @@ for measure in measure_names:
     
 # Save the groups in csv
 for measure in measure_names:
-    filename = data_folder+measure+".csv"
-    print("Saving {} to {}".format(measure, saving_folder+measure+".csv"))
+    filename = saving_folder+measure+".csv"
+    print("Saving {} to {}".format(measure, filename))
     measure_groups[measure].to_csv(filename, compression="zip")
