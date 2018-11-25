@@ -22,8 +22,10 @@ The data contains information on adults who have reported depression and can be 
     - Education Level
     - Employment
     - Occupation
-- Of those who sought out help: what has worked/has not worked for them?
-- Suicide rates due to mental illnesses across regions
+- What are the mental illness's variation in impact over demographics including:
+    - Age
+    - Location
+    - Gender
 
 # Dataset
 
