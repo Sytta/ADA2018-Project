@@ -11,6 +11,9 @@
     <!-- we use cdn but you can also include local files located in css directory-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- Particles -->
+    <link rel="stylesheet" href="./css/particles.css">
+
     <!-- Google fonts - Montserrat for headings, Cardo for copy-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Cardo:400,400italic,700">
     <!-- theme stylesheet-->
@@ -21,15 +24,21 @@
     <link rel="stylesheet" href="css/custom.css">
     <!-- Favicon-->
     <link rel="shortcut icon" href="favicon.png">
-    <!-- Tweaks for older IEs--><!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
-        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="jquery.js"></script> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="./js/jquery.scrollToDiv.js"></script>
+    <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> 
+    <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
+    <script src="./js/particles/particles.js"></script>
+    <script src="./js/load_plotly.js"></script>
 
   </head>
   <body data-spy="scroll" data-target="#navigation" data-offset="120">
     <!-- intro-->
-    <section id="intro" style="background-image: url('img/ein-steig.jpg');" class="intro">      
+    <section id="start" style="background-image: url('img/ein-steig.jpg');" class="intro">
+      <!-- particles.js container -->
       <div class="overlay"></div>
       <div class="content">
         <div class="container clearfix">
@@ -41,6 +50,11 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="bg-section bg-cover bg-cc full-wh">
+          <b class="full-wh" id="particles-js">
+            <canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="3360" height="1798"></canvas>
+          </b>
       </div>
     </section>
     <!-- intro end-->
@@ -55,11 +69,12 @@
             <div id="navigation" class="collapse navbar-collapse navbar-right">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="#intro">Introduction</a></li>
-                <li><a href="#prevalence">Prevalence</a></li>
-                <li><a href="#daly">DALY</a></li>
-                <li><a href="#portfolio">Deaths</a></li>
-                <li><a href="#text">Continents</a></li>
-                <li><a href="#contact">Countries</a></li>
+                <li><a href="#world">World</a></li>
+                <li><a href="#depression">Depression</a></li>
+                <li><a href="#schizophrenia">Schizophrenia</a></li>
+                <li><a href="#anxiety">Anxiety</a></li>
+                <li><a href="#eating">Eating Disorders</a></li>
+                <li><a href="#analysis">Analysis</a></li>
               </ul>
             </div>
           </div>
@@ -67,34 +82,46 @@
       </div>
     </header>
     <!-- /.navbar-->
-    <!-- prevalence-->
-    <section id="prevalence" class="text">
+    <!-- Intro-->
+    <section id="intro" style="background-color: white;" class="text-page">
       <div class="container">
         <div class="row">
-          <!-- <div class="col-md-6">
-            <h2 class="heading">Prevalence</h2>
-            <p class="lead">This can be an prevalence section.</p>
-            <p>Impossible considered invitation him men instrument saw celebrated unpleasant. Put rest and must set kind next many near nay. He exquisite continued explained middleton am. Voice hours young woody has she think equal. Estate moment he at on wonder at season little. Six garden result summer set family esteem nay estate. End admiration mrs unreserved discovered comparison especially invitation. </p>
-            <p>Delightful unreserved impossible few estimating men favourable see entreaties. She propriety immediate was improving. He or entrance humoured likewise moderate. Much nor game son say feel. Fat make met can must form into gate. Me we offending prevailed discovery. </p>
-          </div> -->
-          <div class="col-md-9">
-              <!-- <a href="https://plot.ly/~CANada-2018/81/?share_key=RiqRwzPLgrFImpwsVcWi2l" target="_blank" title="plot from API" style="display: block; text-align: center;"><img src="https://plot.ly/~CANada-2018/81.png?share_key=RiqRwzPLgrFImpwsVcWi2l" alt="plot from API" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-              <script data-plotly="CANada-2018:81" sharekey-plotly="RiqRwzPLgrFImpwsVcWi2l" src="https://plot.ly/embed.js" async></script> -->
-              <iframe width="100%" height="700" frameborder="0" scrolling="no" src="//plot.ly/~CANada-2018/81.embed"></iframe>
-          </div>
-          <div class="col-md-3">
-            <p>TEXT HERE BLABLABLABLABLA</p>
+          <div class="col-md-12">
+            <h2 class="heading">Introduction</h2>
+            <div class="row">
+              <div class="col-sm-6">
+                <p>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>
+                <p>Betrayed cheerful declared end and. Questions we additions is extremely incommode. Next half add call them eat face. Age lived smile six defer bed their few. Had admitting concluded too behaviour him she. Of death to or to being other. </p>
+              </div>
+              <div class="col-sm-6">
+                <p>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed. </p>
+                <p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail. </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- prevalence end-->
-    <!-- daly-->
-    <section id="daly" style="background-color: #eee">
+    <!-- intro end-->
+
+    <!-- world-->
+    <section id="world" style="background-color: #333;" class="text-page section-inverse">
+      <div class="container">
+        <div class="col">
+            <h2 class="heading">World</h2>
+            <div id="share_gender_continent"></div>
+            <div class="row-sm-4"> TEXT HERE EXPLAINING</div>
+        </div>
+      </div>
+    </section>
+    <!-- world end-->
+
+    <!-- depression-->
+    <section id="depression" style="background-color: #eee">
       <div class="container">
         <div class="row services">
           <div class="col-md-12">
-            <h2 class="heading">Daly</h2>
+            <h2 class="heading">Depression</h2>
             <div class="row">
               <div class="col-sm-4">
                 <div class="box">
@@ -122,16 +149,16 @@
         </div>
       </div>
     </section>
-    <!-- Daly end-->
+    <!-- depression end-->
     
-    <!-- Portfolio / gallery-->
-    <section id="portfolio" class="gallery">
+    <!-- schizophrenia -->
+    <section id="schizophrenia" class="gallery">
       <div class="container clearfix">
         <div class="row">
           <div class="col-md-12">
             <div class="row">
               <div class="col-md-12 col-lg-8">
-                <h2 class="heading">Portfolio</h2>
+                <h2 class="heading">Schizophrenia</h2>
                 <p>Put your portfolio or gallery images here for example. Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>
               </div>
             </div>
@@ -172,13 +199,13 @@
         </div>
       </div>
     </section>
-    <!-- Portfolio / gallery end-->
-    <!-- text page-->
-    <section id="text" style="background-color: #333;" class="text-page section-inverse">
+    <!-- schizophrenia end-->
+    <!-- anxiety page-->
+    <section id="anxiety" style="background-color: #333;" class="text-page section-inverse">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="heading">Text page</h2>
+            <h2 class="heading">Anxiety</h2>
             <div class="row">
               <div class="col-sm-6">
                 <p>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>
@@ -193,61 +220,55 @@
         </div>
       </div>
     </section>
-    <!-- text page end-->
-    <!-- countries-->
-    <section id="countries" style="background-color: #fff;" class="text-page"> 
+    <!-- anxiety page end-->
+    <!-- eating disorder page-->
+    <section id="eating" style="background-color: #eee;">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h2 class="heading">Eating Disorder</h2>
+              <div class="row">
+                <div class="col-sm-6">
+                  <p>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>
+                  <p>Betrayed cheerful declared end and. Questions we additions is extremely incommode. Next half add call them eat face. Age lived smile six defer bed their few. Had admitting concluded too behaviour him she. Of death to or to being other. </p>
+                </div>
+                <div class="col-sm-6">
+                  <p>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed. </p>
+                  <p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- eating page end-->
+      <!-- analysis page-->
+    <section id="analysis" style="background-color: white;" class="text-page">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="heading">Countries</h2>
-            <div class="row">
-              <div class="col-md-6">
-                <form id="contact-form" method="post" action="#" class="contact-form">
-                  <div class="controls">
-                    <div class="row">
-                      <div class="col-sm-6">
-                        <div class="form-group">
-                          <label for="name">Your firstname *</label>
-                          <input type="text" name="name" placeholder="Enter your firstname" required="required" class="form-control">
-                        </div>
-                      </div>
-                      <div class="col-sm-6">
-                        <div class="form-group">
-                          <label for="surname">Your lastname *</label>
-                          <input type="text" name="surname" placeholder="Enter your  lastname" required="required" class="form-control">
-                        </div>
-                      </div>
-                    </div>
-                    <div class="form-group">
-                      <label for="surname">Your email *</label>
-                      <input type="email" name="email" placeholder="Enter your  email" required="required" class="form-control">
-                    </div>
-                    <div class="form-group">
-                      <label for="surname">Your message for us *</label>
-                      <textarea rows="4" name="message" placeholder="Enter your message" required="required" class="form-control"></textarea>
-                    </div>
-                    <div class="text-center">
-                      <input type="submit" name="name" value="Send message" class="btn btn-primary btn-block">
-                    </div>
-                  </div>
-                </form>
-              </div>
-              <div class="col-md-6">
-                <p>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed. </p>
+             <h2 class="heading">Analysis</h2>
+             <div class="row">
+               <div class="col-sm-6">
                 <p>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>
-                <p class="social"><a href="#" title="" class="facebook"><i class="fa fa-facebook"></i></a><a href="#" title="" class="twitter"><i class="fa fa-twitter"></i></a><a href="#" title="" class="gplus"><i class="fa fa-google-plus"></i></a><a href="#" title="" class="instagram"><i class="fa fa-instagram"></i></a><a href="#" title="" class="email"><i class="fa fa-envelope"></i></a></p>
+                <p>Betrayed cheerful declared end and. Questions we additions is extremely incommode. Next half add call them eat face. Age lived smile six defer bed their few. Had admitting concluded too behaviour him she. Of death to or to being other. </p>
+              </div>
+              <div class="col-sm-6">
+                <p>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed. </p>
+                <p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail. </p>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <div id="map"></div>
-    <footer style="background-color: #111;" class="section-inverse">
+    <!-- analysis page end-->
+    <!-- <div id="map"></div> -->
+    <footer style="background-color: black;" class="section-inverse">
       <div class="container"> 
         <div class="row copyright">
           <div class="col-md-6">
-            <p>&copy;2015 Your name/company goes here</p>
+            <p>&copy;CANada-2018</p>
           </div>
           <div class="col-md-6">
             <p class="credit">Template by <a href="https://bootstraptemple.com">Bootstrap Temple</a></p>
@@ -270,18 +291,19 @@
     <script src="js/jquery.sticky.js"></script>
     <script src="js/jquery.scrollTo.min.js"></script>
     <!-- google maps-->
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;amp;sensor=false"></script>
-    <script src="js/gmaps.js"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;amp;sensor=false"></script>
+    <script src="js/gmaps.js"></script> -->
     <!-- main script-->
     <script src="js/front.js"></script>
+    <script> includeHTML(); </script>
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
-    <script>
+    <!-- <script>
       (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
       function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
       e=o.createElement(i);r=o.getElementsByTagName(i)[0];
       e.src='//www.google-analytics.com/analytics.js';
       r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
       ga('create','UA-XXXXX-X');ga('send','pageview');
-    </script>
+    </script> -->
   </body>
 </html>
