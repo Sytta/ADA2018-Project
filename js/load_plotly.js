@@ -1,3 +1,10 @@
 $(document).ready(function(e) {
-    $('#share_gender_continent').load('share_gender_continent.html',function(){console.log('loaded share_gender_continent')});
-});
+    var graphs = [
+    'share_gender_continent',
+    'DALY_per_mental_illness_continent', 
+    'DALY_per_anxiety_continent',
+    ]
+    graphs.forEach(function(graph) {
+      $('#' + graph).load('./plotly/' + graph + '.html',function(){console.log('loaded ' + graph)});
+    });
+  });
