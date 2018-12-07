@@ -1,0 +1,82 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1992,127683.630163,139533.654935,113244.29705
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1992,97459.7167042,107538.883627,70023.0374137
+Deaths,Global,Both,All Ages,Eating disorders,Number,1992,404.295039833,467.572766766,349.269527869
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1990,112563.850843,126833.89168,97032.9932731
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1990,89377.7637575,98986.7987609,63948.8239927
+Deaths,Global,Both,All Ages,Eating disorders,Number,1990,380.498607623,444.369849499,328.05592328
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1993,102251.521315,112188.330663,74452.6997932
+Deaths,Global,Both,All Ages,Eating disorders,Number,1993,423.419337892,485.744014998,366.758067736
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1991,118066.317874,131056.525571,102224.35175
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1991,93044.7749515,102968.427975,66272.7557688
+Deaths,Global,Both,All Ages,Eating disorders,Number,1991,390.837560892,453.652297133,336.255570767
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1993,141205.600747,154642.840541,128574.179868
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1996,149365.39931,162828.280131,135496.860432
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1996,112528.328824,122799.724564,84636.5180905
+Deaths,Global,Both,All Ages,Eating disorders,Number,1996,479.394096508,541.941371844,415.118138387
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1995,152997.336733,168040.262058,141039.005061
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1994,151962.292851,168199.121353,139792.415306
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1994,107053.7126,116916.840975,78575.0226346
+Deaths,Global,Both,All Ages,Eating disorders,Number,1994,441.203146641,503.830546245,380.081492745
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1995,109914.438183,119985.962516,81422.2809035
+Deaths,Global,Both,All Ages,Eating disorders,Number,1995,458.37275016,521.33788926,395.269255819
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2000,158784.947766,170563.004765,143363.114615
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1998,146452.338422,158051.403374,130277.597258
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1998,116233.803044,126222.092899,90143.5355447
+Deaths,Global,Both,All Ages,Eating disorders,Number,1998,520.82321742,584.091780063,449.874884514
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2000,118038.006336,126861.916767,96977.2288646
+Deaths,Global,Both,All Ages,Eating disorders,Number,2000,544.377370073,606.147853726,471.049453254
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1997,145991.458661,158042.595259,130553.724232
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1997,114438.511444,124849.792587,87069.856119
+Deaths,Global,Both,All Ages,Eating disorders,Number,1997,504.615398849,568.157321409,437.33501982
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,1999,152187.710583,163392.84654,136896.841267
+Deaths,Global,Both,All Ages,Drug use disorders,Number,1999,116543.476301,125931.786975,93484.7746835
+Deaths,Global,Both,All Ages,Eating disorders,Number,1999,537.95163427,600.638184649,464.386423354
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2002,120445.516135,128693.594365,104656.229524
+Deaths,Global,Both,All Ages,Eating disorders,Number,2002,568.983964479,631.130071218,495.827350593
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2003,173113.626748,186170.673269,153809.706425
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2003,121076.695133,128587.443222,107848.352943
+Deaths,Global,Both,All Ages,Eating disorders,Number,2003,577.035260481,636.583434497,505.840381874
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2004,174676.041592,187770.613777,155301.936298
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2001,164452.563243,175833.109424,146815.897859
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2001,119243.260525,127609.829696,101012.606415
+Deaths,Global,Both,All Ages,Eating disorders,Number,2001,556.765872093,617.793798974,483.39801328
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2002,169531.97492,181791.831042,150711.427993
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2005,176078.966164,188404.128343,155948.186656
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2005,123824.119678,130702.499986,113165.809138
+Deaths,Global,Both,All Ages,Eating disorders,Number,2005,578.03661432,637.166696028,509.970319824
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2004,121915.042677,128907.222546,110793.234161
+Deaths,Global,Both,All Ages,Eating disorders,Number,2004,577.401420161,636.87546908,506.776986632
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2006,172009.311361,183461.246583,150718.888662
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2006,124817.311284,131139.086901,115186.211502
+Deaths,Global,Both,All Ages,Eating disorders,Number,2006,582.73124657,642.660117066,514.361744862
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2010,164727.848232,174686.986708,142101.4687
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2010,129977.943299,137873.896073,120798.335529
+Deaths,Global,Both,All Ages,Eating disorders,Number,2010,590.320688906,650.473102856,531.064274293
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2011,163271.767344,172374.806656,140313.272687
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2011,131450.175635,139998.904719,122175.738386
+Deaths,Global,Both,All Ages,Eating disorders,Number,2011,592.15751741,651.590284599,533.099693777
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2008,169576.557585,179903.963465,147403.74217
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2008,127472.052944,134307.400494,118806.878926
+Deaths,Global,Both,All Ages,Eating disorders,Number,2008,586.582514188,646.724727572,523.548562795
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2013,135734.412446,145967.77545,125617.855621
+Deaths,Global,Both,All Ages,Eating disorders,Number,2013,592.089411145,653.277654553,530.939628628
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2007,169982.593681,180163.097089,147013.771222
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2007,125781.193139,132297.388393,116840.259191
+Deaths,Global,Both,All Ages,Eating disorders,Number,2007,583.12132329,643.428100836,519.32665635
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2009,165855.847593,175423.287639,143760.730654
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2009,128566.709796,136364.077621,119628.315975
+Deaths,Global,Both,All Ages,Eating disorders,Number,2009,588.5070662,649.753735444,525.275545183
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2014,166787.10226,177464.816881,141377.846445
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2014,138554.496549,149408.574144,127582.971625
+Deaths,Global,Both,All Ages,Eating disorders,Number,2014,597.830004206,663.439441851,534.006297007
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2012,162825.118233,172494.757643,139997.971046
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2012,132939.304766,142396.92662,123651.043012
+Deaths,Global,Both,All Ages,Eating disorders,Number,2012,593.293329766,652.736853434,533.428171522
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2013,164411.42329,174415.721056,140063.398642
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2015,170586.907161,184345.608645,144102.12317
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2015,141005.486427,153897.433673,128742.578204
+Deaths,Global,Both,All Ages,Eating disorders,Number,2015,603.781988022,672.579221077,538.96912597
+Deaths,Global,Both,All Ages,Alcohol use disorders,Number,2016,173893.084792,190901.77863,145525.981823
+Deaths,Global,Both,All Ages,Drug use disorders,Number,2016,143774.611654,158776.875977,130276.724793
+Deaths,Global,Both,All Ages,Eating disorders,Number,2016,609.564417986,681.190550704,543.316855086
