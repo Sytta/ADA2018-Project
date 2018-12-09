@@ -1,0 +1,21 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Global,Both,1 to 4,Mental and substance use disorders,Number,2016,0.0,0.0,0.0
+Deaths,Global,Both,5 to 9,Mental and substance use disorders,Number,2016,13.7935990194,16.2391823418,11.3876169268
+Deaths,Global,Both,10 to 14,Mental and substance use disorders,Number,2016,14.7188437706,17.1114729435,11.8106529337
+Deaths,Global,Both,15 to 19,Mental and substance use disorders,Number,2016,5256.85848345,5917.86749172,4722.75654928
+Deaths,Global,Both,20 to 24,Mental and substance use disorders,Number,2016,12478.0534792,14102.1645419,11150.241933
+Deaths,Global,Both,25 to 29,Mental and substance use disorders,Number,2016,20849.5481812,23369.8930828,18632.7035458
+Deaths,Global,Both,30 to 34,Mental and substance use disorders,Number,2016,26895.6558557,30183.0993271,23522.8313964
+Deaths,Global,Both,35 to 39,Mental and substance use disorders,Number,2016,28725.9823812,31972.8186158,25188.2643859
+Deaths,Global,Both,40 to 44,Mental and substance use disorders,Number,2016,32351.4754095,35703.6894337,28157.6854798
+Deaths,Global,Both,45 to 49,Mental and substance use disorders,Number,2016,34925.8935171,38360.9110918,30336.0319217
+Deaths,Global,Both,50 to 54,Mental and substance use disorders,Number,2016,35991.8138779,39610.2726258,31929.3647995
+Deaths,Global,Both,55 to 59,Mental and substance use disorders,Number,2016,32825.185994,36294.4950403,28763.8981063
+Deaths,Global,Both,60 to 64,Mental and substance use disorders,Number,2016,27668.8788584,30210.6201487,24235.4640631
+Deaths,Global,Both,65 to 69,Mental and substance use disorders,Number,2016,19691.4802326,21351.4326329,16914.0833188
+Deaths,Global,Both,70 to 74,Mental and substance use disorders,Number,2016,12357.6871288,13156.5580958,10659.1074362
+Deaths,Global,Both,75 to 79,Mental and substance use disorders,Number,2016,11678.3120205,12519.1795423,10114.3028244
+Deaths,Global,Both,80 to 84,Mental and substance use disorders,Number,2016,7633.01424903,8134.92483713,6494.08201291
+Deaths,Global,Both,85 to 89,Mental and substance use disorders,Number,2016,5424.79754355,5745.9350782,4850.08151469
+Deaths,Global,Both,90 to 94,Mental and substance use disorders,Number,2016,2597.28343348,2783.61940984,2381.59089716
+Deaths,Global,Both,95 plus,Mental and substance use disorders,Number,2016,867.003544625,934.347204158,803.108569671
