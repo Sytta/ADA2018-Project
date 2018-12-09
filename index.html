@@ -33,6 +33,7 @@
     <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
     <script src="./js/particles/particles.js"></script>
     <script src="./js/load_plotly.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
 
   </head>
   <body data-spy="scroll" data-target="#navigation" data-offset="120">
@@ -162,22 +163,30 @@
             </div>
             <div class="col">
               <h4 class="subheading">Age</h4>
+              <button class="square-button padding-large light-grey more1 more-button1" style="margin-top:64px">SHOW MORE</button>
+              <button class="square-button padding-large light-grey less1 less-button1" style="margin-top:64px">SHOW LESS</button>
 
             </div>
-            <div class="col">
-                <h4 class="subheading">Gender</h4>
-                <div id="prevalence_gender_disorder_share_global"></div>
-                <div id="share_gender_continent"></div>
-                <div id="prevalence_gender_share_per_country"></div>
-                <button class="square-button padding-large light-grey more more-button" style="margin-top:64px">SHOW MORE</button>
-                <button class="square-button padding-large light-grey less less-button" style="margin-top:64px">SHOW LESS</button>
+            <div class="row">
+              <div class="col">
+                  <h4 class="subheading more">Gender</h4>
+                  <div id="prevalence_gender_disorder_share_global" class="more"></div>
+                  <div id="share_gender_continent" class="less"></div>
+                  <div id="prevalence_gender_share_per_country" class="less"></div>
+                  <button class="square-button padding-large light-grey more2 more-button2" style="margin-top:64px">SHOW MORE</button>
+                  <button class="square-button padding-large light-grey less2 less-button2" style="margin-top:64px">SHOW LESS</button>
+              </div>
             </div>
             <div class="col">
                 <h4 class="subheading">Employment</h4>
+                <button class="square-button padding-large light-grey more3 more-button3" style="margin-top:64px">SHOW MORE</button>
+                <button class="square-button padding-large light-grey less3 less-button3" style="margin-top:64px">SHOW LESS</button>
   
             </div>
             <div class="col">
                 <h4 class="subheading">Education</h4>
+                <button class="square-button padding-large light-grey more4 more-button4" style="margin-top:64px">SHOW MORE</button>
+                <button class="square-button padding-large light-grey less4 less-button4" style="margin-top:64px">SHOW LESS</button>
   
             </div>
           </div>
@@ -238,7 +247,7 @@
     <!-- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;amp;sensor=false"></script>
     <script src="js/gmaps.js"></script> -->
     <!-- main script-->
-    <script src="js/custom.js"></script>
+    
 
     <script src="js/front.js"></script>
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
