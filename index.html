@@ -32,7 +32,8 @@
     <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> 
     <!-- <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>  -->
     <!-- <script src="./js/particles/particles.js"></script> -->
-    <script src="./js/load_plotly.js"></script>
+    <!-- <script src="./js/load_plotly.js"></script> -->
+    <script src="./js/loadplotlyvisible.js"></script>
     <script type="text/javascript" src="js/showButtons.js"></script>
 
   </head>
@@ -108,12 +109,14 @@
       <div class="container">
         <div class="col">
             <h2 class="heading">World</h2>
-            <div class="row-sm-2"> Nearly 1 in every 5 Americans suffer from a mental disorder in a given year. What about the rest of the world? </div>
             <div class="col">
-                <div id="mental_illness_map_over_years" class="more2"></div>
-                <div id="deaths_rate_number" class="more2"></div>
+                <div class="row-sm-1">Nearly 1 in every 5 Americans suffer from a mental disorder in a given year. What about the rest of the world?</div>
+                <div class="row-sm-10 plot" id="mental_illness_map_over_years"></div>
+                <div class="row-sm-1"> The share of population with mental illness stayed fairly consistent for most countries between 1990 - 2017. </div>
             </div>
-            <div class="row-sm-2"> The share of population with mental illness stayed fairly consistent for most countries between 1990 - 2017. </div>
+            <div class="col">
+                <div class="row-sm-10 plot" id="deaths_rate_number"></div>
+            </div>
             <div class="row-sm-5" id="DALY_per_mentail_illness_continent"></div>
         </div>
       </div>
@@ -186,9 +189,9 @@
         <div class="col-md-12">
             <h4 class="subheading more2">Gender</h4>
             <div class="col">
-                <div id="prevalence_gender_disorder_share_global" class="more2"></div>
-                <div id="share_gender_continent" class="more2"></div>
-                <div id="prevalence_gender_share_per_country" class="less2"></div>
+                <div id="prevalence_gender_disorder_share_global" class="more2 plot"></div>
+                <div id="share_gender_continent" class="more2 plot"></div>
+                <div id="prevalence_gender_share_per_country" class="less2 plot"></div>
             </div>
             <button class="square-button padding-small light-grey more2 more-button2" style="margin-top:20px">SHOW MORE</button>
             <button class="square-button padding-small light-grey less2 less-button2" style="margin-top:20px">SHOW LESS</button>
@@ -209,7 +212,7 @@
         <div class="col-md-12">
             <h4 class="subheading more4">Life Satisfaction</h4>
             <div class="col">
-                <div id="mental_illness_life_satisfaction" class="more2"></div>
+                <div id="mental_illness_life_satisfaction" class="more2 plot"></div>
             </div>
             <button class="square-button padding-small light-grey more4 more-button4" style="margin-top:20px">SHOW MORE</button>
             <button class="square-button padding-small light-grey less4 less-button4" style="margin-top:20px">SHOW LESS</button>
@@ -273,7 +276,7 @@
     <!-- main script-->
     
 
-    <script src="js/front.js"></script>
+    <!-- <script src="js/front.js"></script> -->
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
     <!-- <script>
       (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
