@@ -65,6 +65,17 @@ section {
   margin: 20px 0 20px;
   background: #555555;
 }
+.subheading {
+  margin-bottom: 40px;
+}
+.subheading:after {
+  content: " ";
+  display: block;
+  width: 40px;
+  height: 1px;
+  margin: 5px 0 5px;
+  background:  #555555;
+}
 .img-responsive {
   margin: 0 auto;
 }
