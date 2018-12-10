@@ -10,7 +10,7 @@
     <!-- Bootstrap and Font Awesome css-->
     <!-- we use cdn but you can also include local files located in css directory-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!-- Particles -->
     <link rel="stylesheet" href="./css/particles.css">
 
@@ -126,33 +126,39 @@
     <!-- mental_disorders-->
     <section id="mental_disorders" style="background-color: #eee">
       <div class="container">
-        <div class="row services">
-          <div class="col-md-12">
-            <h2 class="heading">Mental Disorders</h2>
-            <div class="row">
-              <div class="col-sm-4">
-                <div class="box">
-                  <div class="icon"><i class="fa fa-desktop"></i></div>
-                  <h4>Webdesign</h4>
-                  <p>Fifth abundantly made Give sixth hath. Cattle creature i be don't them.</p>
-                </div>
-              </div>
-              <div class="col-sm-4">
-                <div class="box">
-                  <div class="icon"><i class="fa fa-print"></i></div>
-                  <h4>Print</h4>
-                  <p>Advantage old had otherwise sincerity dependent additions. It in adapted natural.</p>
-                </div>
-              </div>
-              <div class="col-sm-4">
-                <div class="box">
-                  <div class="icon"><i class="fa fa-globe"></i></div>
-                  <h4>SEO and SEM</h4>
-                  <p>Am terminated it excellence invitation projection as. She graceful shy. </p>
-                </div>
-              </div>
+        <h2 class="heading">Mental Disorders</h2>
+        <div class="row">
+          <div class="column-md-4">
+            <div class="row-md-10 prevalence_per_cause"></div>
+            <div class="row-md-2">
+              EXPLANATIONS
             </div>
           </div>
+          <div class="column-md-8 more0">
+            <button type="square-button" class="seeContinents">See Continents</button>
+            <button type="square-button" class="seeCountries">See Countries</button>
+            <div class="row">
+                <div class="column-md-5 continents">
+                  <div class="col">
+                    <div id="daly_rate_continents" class="row-md-10"></div>
+                    <div class="row-md-2">
+                      EXPLANATIONS 1
+                    </div>
+                  </div>
+                </div>
+                <div class="column-md-5 countries">
+                  <div class="col">
+                    <div id="daly_rate_countries" class="row-md-10"></div>
+                    <div class="row-md-2">
+                      EXPLANATIONS 2
+                    </div>
+                  </div>
+            </div>
+            </div>
+          </div>
+
+          <button class="square-button padding-small light-grey more0 more-button0" style="margin-top:20px">SHOW MORE</button>
+          <button class="square-button padding-small light-grey less0 less-button0" style="margin-top:20px">SHOW LESS</button>
         </div>
       </div>
     </section>

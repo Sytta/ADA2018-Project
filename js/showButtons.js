@@ -1,3 +1,17 @@
+$(document).ready(function () {
+    $('.less0').hide();
+    $('.less-button0').hide();
+    $('.more-button0').click(function () {
+        $('.less0').show();
+        $('.more-button0').hide();
+        $('.less-button0').show();
+    });
+    $('.less-button0').click(function () {
+        $('.less-button0').hide();
+        $('.less0').hide(300);
+        $('.more-button0').show();
+    });
+});
 
 $(document).ready(function () {
     $('.more1').show();
@@ -55,6 +69,21 @@ $(document).ready(function () {
     });
 });
 
-
+$(document).ready(function () {
+    $('.seeContinents').hide();
+    $('.continents').hide();
+    $('.seeContinents').click(function () {
+        alert("show continents");
+        $('.seeCountries').show();
+        $('.countries').hide();
+        $('.continents').show();
+    });
+    $('.seeCountries').click(function () {
+        alert("show countries");
+        $('.seeContinents').hide();
+        $('.continents').hide(300);
+        $('.countries').show();
+    });
+});
 
 
