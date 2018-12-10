@@ -1,15 +1,15 @@
 $(document).ready(function () {
+    $('.more0').show();
     $('.less0').hide();
     $('.less-button0').hide();
     $('.more-button0').click(function () {
         $('.less0').show();
         $('.more-button0').hide();
-        $('.less-button0').show();
     });
     $('.less-button0').click(function () {
-        $('.less-button0').hide();
+        $('.more0').show();
         $('.less0').hide(300);
-        $('.more-button0').show();
+        $('.less-button0').hide();
     });
 });
 
