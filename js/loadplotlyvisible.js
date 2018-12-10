@@ -2,7 +2,6 @@
 $(window).scroll(function(){
     $('.plot').each(function(){
     if(isScrolledIntoView($(this))){
-        // $(this).children('span').text('visible');
         console.log("Scrolled to " + this.id);
         $(this).load('./plotly/' + this.id + '.html',function(){console.log('loaded ' + this.id)});
         $(this).removeClass("plot");
