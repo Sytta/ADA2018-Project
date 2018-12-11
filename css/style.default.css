@@ -124,9 +124,9 @@ section {
 .services .icon {
   font-size: 50px;
 }
-#map {
+/* #map {
   height: 600px;
-}
+} */
 .contact-form {
   margin-bottom: 40px;
 }
@@ -1006,7 +1006,7 @@ a.list-group-item.active > .badge,
   border:none;
   display:inline-block;
   outline:0;
-  padding:8px 16px;
+  padding:0px 16px;
   vertical-align:middle;
   overflow:hidden;
   text-decoration:none;
