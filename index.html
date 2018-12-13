@@ -220,9 +220,10 @@
             <div class="row">
               <div class="col-md-3">
                 <p>
-                  Let’s look at the ranking of the continents per mental disorder in the most recent year, 2017. This graph
-                  has the same results as the above, except it is organized by mental disorders. The global value is given
-                  as a reference.
+                  <b>Let’s look at the ranking of the continents per mental disorder in the most recent year, 2017.</b>
+                </p> 
+                <p>
+                  This graph has the same results as the above, except it is organized by mental disorders. The global value is given as a reference.
                 </p>
                 <p>
                   Europe and America stand at the top for depression and anxiety, but also for eating disorders, and
@@ -347,15 +348,19 @@
             <div class="col-md-12">
             <h4 class="subheading more3">Employment & Education</h4>
             <div class="col">
-              <div class="row-md-4 more1">
-                <div class="row">
-                  <iframe iframe class="col-md-12" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
-                  <span class="col-md-12">
+              <div class="row-md-10 more1">
+                <div class="col">
+                  <iframe iframe class="row-md-4 more6" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
+                  <span class="row-md-4 more6">
 
                     <p>The above graph shows the global depression prevalence as a % of the population, based on education and employment. Education is split into 3 categories—below upper secondary, upper secondary and post-secondary, and tertiary education. Employment is split into 2 overlapping categories—active and employed. Active considers all people in the labour force—this includes those who are employed, but also those who are unemployed but looking for work.</p>
  
                     <p>From the graph, it is clear that depression prevalence decreases as education level increases. Furthermore, depression prevalence is lower for employed rather than active, for all three levels of education. This negative correlation between depression prevalence and education/employment is intuitive—a person with higher education and is employed will on average experience more personal development, increased perspective of self-worth, and be more economically stable. Financial stability and self-fulfillment are contributing factors to the lower depression prevalence levels.</p><br> 
+                    
+                    <p>With the datas above, we performed a hypothesis testing, and by with a p-value of <b><0.0669035101009</b>, which made us conclude that there is a significant difference in depression prevalence between active and employed groups. As seen above, unemployed people tend to be more depressed. (Details in <b>Show More</b>)</p>
 
+                  </span>
+                  <span class="row-md-4 less6">
                     <p style="align-content: center"><b><u>Hypothesis Test - Difference of Means between Employed & Active </u></b></p>
 
                     <p>Let’s conduct a hypothesis test on the difference in means in depression prevalence between employed and active groups using a two-sided t-test. We first formulate our hypothesis:</p>
@@ -388,6 +393,10 @@
                     <p>Using a 10% level of significance, we reject the null hypothesis and conclude that there is a difference in depression prevalence between active and employed groups.</p>
                   </span>
                 </div>  
+              </div>
+              <div class="column-md-2">
+                  <button class="square-button padding-large dark-grey more6 more-button6" style="margin-top:20px">SHOW MORE</button>
+                  <button class="square-button padding-large dark-grey less6 less-button6" style="margin-top:20px">SHOW LESS</button>
               </div>
             </div>
         </div>

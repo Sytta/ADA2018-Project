@@ -69,21 +69,20 @@ $(document).ready(function () {
     });
 });
 
-// $(document).ready(function () {
-//     $('.seeContinents').hide();
-//     $('.continents').hide();
-//     $('.seeContinents').click(function () {
-//         alert("show continents");
-//         $('.seeCountries').show();
-//         $('.countries').hide();
-//         $('.continents').show();
-//     });
-//     $('.seeCountries').click(function () {
-//         alert("show countries");
-//         $('.seeContinents').hide();
-//         $('.continents').hide(300);
-//         $('.countries').show();
-//     });
-// });
+$(document).ready(function () {
+    $('.more6').show();
+    $('.less6').hide();
+    $('.more-button6').click(function () {
+        $('.less6').show();
+        $('.more-button6').hide();
+    });
+    $('.less-button6').click(function () {
+        $('.more6').show();
+        $('.less-button6').hide();
+        $('.less6').hide(300);
+    });
+});
+
+
 
 
