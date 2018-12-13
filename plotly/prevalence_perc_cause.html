@@ -857,13 +857,16 @@
         // $("body").on('DOMSubtreeModified', "#b10fd18f-c464-4652-abd0-9e7585a957f7", function() {
         //     alert('changed');
         // });
-        var graphDiv = document.getElementById ("b10fd18f-c464-4652-abd0-9e7585a957f7");
-        if (graphDiv.addEventListener) {
-            graphDiv.addEventListener ('DOMSubtreeModified', OnSubtreeModified, false);
-        }
-
         function OnSubtreeModified () {
             alert ("The subtree that belongs to the container has been modified.");
         }
+
+        $(document).ready(function(e) {
+
+            var graphDiv = document.getElementById ("b10fd18f-c464-4652-abd0-9e7585a957f7");
+            if (graphDiv.addEventListener) {
+                graphDiv.addEventListener ('DOMSubtreeModified', OnSubtreeModified, false);
+            }
+        });
     </script>
 </div>
