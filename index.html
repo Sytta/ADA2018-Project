@@ -215,37 +215,39 @@
             <div class="col">
               <div class="row-md-4 more1">
                 <div class="row">
-                  <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
+                  <iframe width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
                   <div class="row-md-2">
                     <p>The above graph shows the global depression prevalence as a % of the population, based on education and employment. Education is split into 3 categories—below upper secondary, upper secondary and post-secondary, and tertiary education. Employment is split into 2 overlapping categories—active and employed. Active considers all people in the labour force—this includes those who are employed, but also those who are unemployed but looking for work.</p>
  
                     <p>From the graph, it is clear that depression prevalence decreases as education level increases. Furthermore, depression prevalence is lower for employed rather than active, for all three levels of education. This negative correlation between depression prevalence and education/employment is intuitive—a person with higher education and is employed will on average experience more personal development, increased perspective of self-worth, and be more economically stable. Financial stability and self-fulfillment are contributing factors to the lower depression prevalence levels.</p> 
 
+                    <p><b><u>Hypothesis Test on Difference of Means between Employed and Active</u></b></p>
+
                     <p>Let’s conduct a hypothesis test on the difference in means in depression prevalence between employed and active groups using a two-sided t-test. We first formulate our hypothesis:</p>
  
-                    <p>H0: Mean of employed group depression = Mean of active group depression
+                    <p>H0: Mean of employed group depression = Mean of active group depression<br>
                     H1: Mean of employed group depression != Mean of active group depression</p>
  
                     <p>Below are variables we need to conduct the p-test:</p>
  
-                    <p>Sample size:<br>
+                    <p><b>Sample size:</b><br>
                     N = 81</p>
  
-                    <p>Sample Means and Difference:<br>
+                    <p><b>Sample Means and Difference:</b><br>
                     a.mean = 5.323097530864199% (Mean depression % Employed)<br>
                     b.mean = 6.143745679012348% (Mean depression % Active)<br>
                     Mean difference = 0.8206481481481491</p>
  
-                    <p>Variances and Total Standard Deviation:<br>
+                    <p><b>Variances and Total Standard Deviation:</b><br>
                     var_employed = 7.518851839243827<br>
                     var_active = 8.508507546512345<br>
                     s = sqrt[(var_employed+var_active)/2] = 2.8308443427497183</p>
                      
-                    <p>T-statistics and Degrees of Freedom:<br>
+                    <p><b>T-statistics and Degrees of Freedom:</b><br>
                     t = (a.mean - b.mean)/(s*np.sqrt(2/N)) = -1.8448816686405103<br>
                     df = 2*N – 2 = 160</p>
                      
-                    <p>Final P-Value:<br>
+                    <p><b>Final P-Value:</b><br>
                     p-value = 0.0669035101009 (obtained using Python based on above variables)</p>
                      
                     <p>Using a 10% level of significance, we reject the null hypothesis and conclude that there is a difference in depression prevalence between active and employed groups.</p>
@@ -270,8 +272,6 @@
 
                 </div>
             </div>
-            <button class="square-button padding-large light-grey more4 more-button4" style="margin-top:20px">SHOW MORE</button>
-            <button class="square-button padding-large light-grey less4 less-button4" style="margin-top:20px">SHOW LESS</button>
         </div>
 
       </div>
