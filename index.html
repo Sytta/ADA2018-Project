@@ -35,6 +35,8 @@
     <!-- <script src="./js/load_plotly.js"></script> -->
     <script src="./js/loadplotlyvisible.js"></script>
     <script type="text/javascript" src="js/showButtons.js"></script>
+    <script type="text/javascript" async 
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
   </head>
   <body data-spy="scroll" data-target="#navigation" data-offset="120">
@@ -234,21 +236,21 @@
                     N = 81</p>
  
                     <p><b>Sample Means and Difference:</b><br>
-                    a.mean = 5.323097530864199% (Mean depression % Employed)<br>
-                    b.mean = 6.143745679012348% (Mean depression % Active)<br>
-                    Mean difference = 0.8206481481481491</p>
+                    $$employed.mean = 5.323097530864199$$
+                    $$active.mean = 6.143745679012348$$
+                    $$Mean difference = 0.8206481481481491$$</p>
  
-                    <p><b>Variances and Total Standard Deviation:</b><br>
-                    var_employed = 7.518851839243827<br>
-                    var_active = 8.508507546512345<br>
-                    s = sqrt[(var_employed+var_active)/2] = 2.8308443427497183</p>
+                    <p><b>Variances and Standard Deviation:</b><br>
+                    $$var_employed = 7.518851839243827$$<br>
+                    $$var_active = 8.508507546512345$$<br>
+                    $$s = \sqrt{{var_{employed} + var_{active}} \over 2} = 2.8308443427497183$$</p>
                      
                     <p><b>T-statistics and Degrees of Freedom:</b><br>
-                    t = (a.mean - b.mean)/(s*np.sqrt(2/N)) = -1.8448816686405103<br>
-                    df = 2*N – 2 = 160</p>
+                    $$t = {{employed.mean - active.mean} \over s\sqrt{2 \over N}} = -1.8448816686405103$$
+                    $$df = 2N – 2 = 160$$</p>
                      
                     <p><b>Final P-Value:</b><br>
-                    p-value = 0.0669035101009 (obtained using Python based on above variables)</p>
+                    $$p-value = 0.0669035101009$$</p>
                      
                     <p>Using a 10% level of significance, we reject the null hypothesis and conclude that there is a difference in depression prevalence between active and employed groups.</p>
 
