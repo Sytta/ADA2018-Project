@@ -1,9 +1,7 @@
-$(function () {
+$(document).ready(function () {
 
     lightbox();
     sticky();
-    utils();
-    map();
     demo();
 
 });
