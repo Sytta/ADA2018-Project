@@ -82,6 +82,7 @@ section {
 .section-inverse {
   color: #fff;
 }
+
 .section-inverse h1,
 .section-inverse h2,
 .section-inverse h3,
@@ -298,7 +299,7 @@ NAVBAR
 }
 /* navbar */
 .navbar {
-  font-family: "Cardo", "Times New Roman", Times, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-style: italic;
   min-height: 40px;
   margin-bottom: 0;
@@ -564,7 +565,8 @@ NAVBAR
 }
 /* scaffolding */
 body {
-  font-family: "Cardo", "Times New Roman", Times, serif;
+  /*font-family: "Cardo", "Times New Roman", Times, serif;*/
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.42857143;
   color: #333333;
@@ -617,7 +619,8 @@ hr {
 /* buttons  */
 .btn {
   font-weight: normal;
-  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 6px 12px;
@@ -1024,4 +1027,9 @@ a.list-group-item.active > .badge,
 .light-grey{
   color:#000!important;
   background-color:#f1f1f1!important
+}
+
+.dark-grey{
+  color:#ffffff!important;
+  background-color:#444444!important
 }

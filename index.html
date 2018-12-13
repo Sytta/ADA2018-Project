@@ -16,6 +16,7 @@
 
     <!-- Google fonts - Montserrat for headings, Cardo for copy-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Cardo:400,400italic,700">
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Varela+Round'>
     <!-- theme stylesheet-->
     <link rel="stylesheet" href="css/style.default.css" id="theme-stylesheet">
     <!-- ekko lightbox-->
@@ -35,6 +36,8 @@
     <!-- <script src="./js/load_plotly.js"></script> -->
     <script src="./js/loadplotlyvisible.js"></script>
     <script type="text/javascript" src="js/showButtons.js"></script>
+    <script type="text/javascript" async 
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
   </head>
   <body data-spy="scroll" data-target="#navigation" data-offset="120">
@@ -46,9 +49,8 @@
         <div class="container clearfix">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-12">
-              <p class="italic">Oh, hello, nice to meet you!</p>
-              <h1>WHo is at risk of mental illness?</h1>
-              <p class="italic">Mental Illness:  A health condition involving changes in emotion, thinking or behavior. Often associated with distress and/or problems functioning in social, work or family activities.  - American Psychiatric Association</p>
+              <h1>Who is at risk of mental illness?</h1>
+              <p><font size="4">Mental Illness: A condition which causes serious disorder in a person's behaviour or thinking.</font></p>
             </div>
           </div>
         </div>
@@ -120,6 +122,23 @@
             </div>
             <div class="col">
                 <div class="row-sm-10 plot" id="deaths_rate_number"></div>
+                <div class="row-sm-1"> 
+                  <p>Mental disorders related deaths occur throughout the world, affecting individuals of all nations, cultures, religions and genders. We can see from the graph below  that the prevalence of mental disorders does not show a direct relationship with the death rates. In fact, statistics show that countries with highest mental disorder related death rates in the world are incredibly diverse. </p>
+ 
+                  <p>Today, it is widely accepted by major scientific associations that addiction is a "brain disease". The DSM-V lists criteria for classifying addictions as mental health condition is called "Substance Use Disorder." Prior to 2016, the dataset provided by GHDx also included "Substance Use Disorder" as a type of "Mental Disorder".</p>
+
+                  <p>For all the analysis on deaths caused by mental illness, we included alcohol use and drug use disorders to make it more comprehensive. If we take a look at the number of deaths caused by mental disorders, we can see that substance use disorders (drug and alcohol use) contribute to more than 100 k deaths per year. Specifically, Russian, Australia, the United States and Nordic countries appear to have the highest direct deaths rates reported from substance use disorders in 2016. China, India and the United States had the highest direct deaths from anorexia and bulimia nervosa, with more than 60 deaths each in 2016. </p>
+
+                  <p> Let's take the look at the total number of mental disorder related deaths. Russia had the highest death rate at over 25 deaths per 100,000; this was followed closely by the United States with just over 24 per 100,000. Furthermore. it is worth noting that Russia has a decreasing death rates after peaking at 50 deaths per 100,000 in 2005, whereas the death rates for the United States has been increasing since 1990.  </p>
+
+                  <p>Panama, Mexico and Nicaragua had a relatively low prevalence of mental illness of 12% comparing to other North America countries such as Canada (18%) and the United States (21%) in 2016. It is also reported that the world lowest suicide rates are concentrated in the Caribbean Islands. Perhaps surprisingly, only about 0.3 deaths per 100,000 were reported in Egypt. </p>
+
+                  <p>These mental disordered related deaths do not include indirect suicide deaths and doctor-assisted suicide, which may significantly underestimate the true mortality impact of such disorders. </p>
+
+                </div>
+            </div>
+            <div class="col">
+                <div class="row-sm-10 plot" id="deaths_prevalence_countries"></div>
             </div>
             <div class="row-sm-5" id="DALY_per_mentail_illness_continent"></div>
         </div>
@@ -144,13 +163,13 @@
           <div class="column-md-7 less0">
             <div class="row">
               <div class="col-md-2">
-                EXPLANATIONS 1
+                EXPLANATION
               </div>
               <iframe class="col-md-10" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~CANada-2018/110.embed"></iframe>
             </div>
         </div>
-        <button class="square-button padding-large light-grey more0 more-button0" style="margin-top:20px">SHOW MORE</button>
-        <button class="square-button padding-large light-grey less0 less-button0" style="margin-top:20px">SHOW LESS</button>
+        <button class="square-button padding-large dark-grey more0 more-button0" style="margin-top:20px">SHOW MORE</button>
+        <button class="square-button padding-large dark-grey less0 less-button0" style="margin-top:20px">SHOW LESS</button>
       </div>
     </section>
     <!-- mental_disorders end-->
@@ -170,13 +189,36 @@
             <div class="row-md-3 more1">
               <div class="row">
                 <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/13.embed"></iframe>
-                <span class="col-md-2">TEXT HERE</span>
+                <span class="col-md-2">
+                <p>The graph on the left shows that prevalence of mental disorders for different age groups can vary significantly by country. </p>
+
+                 <p>We can see a peaking of prevalence in older adulthood (between age of 35 to 45) in the United States. Starting from age 40, the prevalence of population with mental disorders in the United States ranks the highest among all 5 countries. </p>
+
+                </span>
+
+                <span class="col-md-12">
+                <p>Now taking Australia for example, there is an observable trend towards higher prevalence among young age groups, especially between age of 15 to 30, with prevalence doubled for the same age group in China. However, Australia has a decreasing prevalence rates in older age groups, ranking the lowest among all 5 countries for population above age 60. </p>
+                
+                <p>Now, if we take a look at prevalence rates in China and Russian, we can observe a huge jump in prevalence of mental illness between children to adolescents. However, the rates grow at a much lower speed at older adulthood. </p>
+                </span>
               </div>
             </div>
-            <div class="row-md-3 more1">
+            <div class="row-md-3 less1">
                 <div class="row">
                   <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/11.embed"></iframe>
-                  <span class="col-md-2">TEXT HERE</span>
+                  <span class="col-md-2">
+                  <p>Prevalence rates also vary quite a lot for different types of mental disorders. </p>
+
+                  <p>We are susceptible to anxiety disorder at an early age of 1 to 4. The prevalence rates of anxiety disorder increased more than 10 times between the age of 5 to 9 and again for about 2.5 times between age of 10 to 14.  </p>
+                  </span>
+
+                  <span class="col-md-12">
+
+                  <p>Depressive disorder, however, has a much higher prevalence in older age groups. It outnumbers anxiety disorder from the age of 45 and remains to be the most prevalent mental disorder since then. </p>
+
+                  <p>Eating disorder is only observed between the age range of 10 to 50, along with bipolar disorder and schizophrenia, making up a small percentage of population who are diagnosed with mental illness. </p>
+
+                  </span>
                 </div>
             </div>
             <div class ="row-md-5 less1">
@@ -209,51 +251,62 @@
             <button class="square-button padding-large light-grey more2 more-button2" style="margin-top:20px">SHOW MORE</button>
             <button class="square-button padding-large light-grey less2 less-button2" style="margin-top:20px">SHOW LESS</button>
         </div>
+      </div>
+    </section>
+    <!-- demographics end-->
 
-        <div class="col-md-12">
+    <!-- insights page-->
+
+    <section id="insights" style="background-color: #eee">
+      <div class="container">
+          <div class="col-md-12">
+            <h2 class="heading">Insights</h2>
+      </div>
+            
+            <div class="col-md-12">
             <h4 class="subheading more3">Employment & Education</h4>
             <div class="col">
               <div class="row-md-4 more1">
                 <div class="row">
-                  <iframe width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
-                  <div class="row-md-2">
+                  <iframe iframe class="col-md-12" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
+                  <span class="col-md-12">
+
                     <p>The above graph shows the global depression prevalence as a % of the population, based on education and employment. Education is split into 3 categories—below upper secondary, upper secondary and post-secondary, and tertiary education. Employment is split into 2 overlapping categories—active and employed. Active considers all people in the labour force—this includes those who are employed, but also those who are unemployed but looking for work.</p>
  
-                    <p>From the graph, it is clear that depression prevalence decreases as education level increases. Furthermore, depression prevalence is lower for employed rather than active, for all three levels of education. This negative correlation between depression prevalence and education/employment is intuitive—a person with higher education and is employed will on average experience more personal development, increased perspective of self-worth, and be more economically stable. Financial stability and self-fulfillment are contributing factors to the lower depression prevalence levels.</p> 
+                    <p>From the graph, it is clear that depression prevalence decreases as education level increases. Furthermore, depression prevalence is lower for employed rather than active, for all three levels of education. This negative correlation between depression prevalence and education/employment is intuitive—a person with higher education and is employed will on average experience more personal development, increased perspective of self-worth, and be more economically stable. Financial stability and self-fulfillment are contributing factors to the lower depression prevalence levels.</p><br> 
 
-                    <p><b><u>Hypothesis Test on Difference of Means between Employed and Active</u></b></p>
+                    <p><b><u><center>Hypothesis Test - Difference of Means between Employed & Active </center></u></b></p>
 
                     <p>Let’s conduct a hypothesis test on the difference in means in depression prevalence between employed and active groups using a two-sided t-test. We first formulate our hypothesis:</p>
  
-                    <p>H0: Mean of employed group depression = Mean of active group depression<br>
-                    H1: Mean of employed group depression != Mean of active group depression</p>
+                    <p><center>H0: Mean of employed group depression = Mean of active group depression<br>
+                    H1: Mean of employed group depression != Mean of active group depression</center></p>
  
                     <p>Below are variables we need to conduct the p-test:</p>
  
                     <p><b>Sample size:</b><br>
-                    N = 81</p>
+                    $$N = 81$$</p>
  
                     <p><b>Sample Means and Difference:</b><br>
-                    a.mean = 5.323097530864199% (Mean depression % Employed)<br>
-                    b.mean = 6.143745679012348% (Mean depression % Active)<br>
-                    Mean difference = 0.8206481481481491</p>
+                    $$mean_{employed} = 5.323097530864199$$
+                    $$mean_{active} = 6.143745679012348$$
+                    $$diff = 0.8206481481481491$$</p>
  
-                    <p><b>Variances and Total Standard Deviation:</b><br>
-                    var_employed = 7.518851839243827<br>
-                    var_active = 8.508507546512345<br>
-                    s = sqrt[(var_employed+var_active)/2] = 2.8308443427497183</p>
+                    <p><b>Variances and Standard Deviation:</b><br>
+                    $$var_{employed} = 7.518851839243827$$<br>
+                    $$var_{active} = 8.508507546512345$$<br>
+                    $$s = \sqrt{{var_{employed} + var_{active}} \over 2} = 2.8308443427497183$$</p>
                      
                     <p><b>T-statistics and Degrees of Freedom:</b><br>
-                    t = (a.mean - b.mean)/(s*np.sqrt(2/N)) = -1.8448816686405103<br>
-                    df = 2*N – 2 = 160</p>
+                    $$t = {{mean_{employed} - mean_{active}} \over s\sqrt{2 \over N}} = -1.8448816686405103$$
+                    $$df = 2N – 2 = 160$$</p>
                      
                     <p><b>Final P-Value:</b><br>
-                    p-value = 0.0669035101009 (obtained using Python based on above variables)</p>
+                    $$p-value = 0.0669035101009$$</p>
                      
                     <p>Using a 10% level of significance, we reject the null hypothesis and conclude that there is a difference in depression prevalence between active and employed groups.</p>
-
-                  </div>
-                </div>
+                  </span>
+                </div>  
               </div>
             </div>
         </div>
@@ -261,7 +314,7 @@
         <div class="col-md-12">
             <h4 class="subheading more4">Life Satisfaction</h4>
             <div class="col">
-                <div id="mental_illness_life_satisfaction" class="more2 plot"></div>
+                <div class="row-sm-10 plot" id="mental_illness_life_satisfaction"></div>
                 <div class="row-md-2">
 
                   <p>Life satisfaction data was obtained from the World Happiness Report. The happiness level is self-ranked by participants from each country who ranked the quality of their lives from a scale of 0-10. Top ranked countries had common high values in areas including: income, life expectancy, social support, freedom, trust and generosity.</p>
@@ -274,28 +327,9 @@
             </div>
         </div>
 
-      </div>
-    </section>
-    <!-- demographics end-->
-
-    <!-- insights page-->
-    <section id="insights" style="background-color: #333;" class="text-page section-inverse">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="heading">Insights</h2>
-            <div class="row">
-              <div class="col-sm-9">
-                TEXTS
-              </div>
-              <div class="col-sm-3">
-                <p>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed. </p>
-                <p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail. </p>
-              </div>
             </div>
           </div>
         </div>
-      </div>
     </section>
     <!-- insights page end-->
 
