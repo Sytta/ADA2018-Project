@@ -1028,3 +1028,8 @@ a.list-group-item.active > .badge,
   color:#000!important;
   background-color:#f1f1f1!important
 }
+
+.dark-grey{
+  color:#ffffff!important;
+  background-color:#444444!important
+}
