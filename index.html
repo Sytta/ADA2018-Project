@@ -287,13 +287,71 @@
           <div class="col-md-12">
             <h2 class="heading">Insights</h2>
             <div class="row">
-              <div class="col-sm-9">
-                TEXTS
+
+              <div class="col-md-12">
+            <h4 class="subheading more3">Employment & Education</h4>
+            <div class="col">
+              <div class="row-md-4 more1">
+                <div class="row">
+                  <iframe width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
+                  <div class="row-md-2">
+                    <p>The above graph shows the global depression prevalence as a % of the population, based on education and employment. Education is split into 3 categories—below upper secondary, upper secondary and post-secondary, and tertiary education. Employment is split into 2 overlapping categories—active and employed. Active considers all people in the labour force—this includes those who are employed, but also those who are unemployed but looking for work.</p>
+ 
+                    <p>From the graph, it is clear that depression prevalence decreases as education level increases. Furthermore, depression prevalence is lower for employed rather than active, for all three levels of education. This negative correlation between depression prevalence and education/employment is intuitive—a person with higher education and is employed will on average experience more personal development, increased perspective of self-worth, and be more economically stable. Financial stability and self-fulfillment are contributing factors to the lower depression prevalence levels.</p> 
+
+                    <p><b><u><center>Hypothesis Test on Difference of Means between Employed and Active</center></u></b></p>
+
+                    <p>Let’s conduct a hypothesis test on the difference in means in depression prevalence between employed and active groups using a two-sided t-test. We first formulate our hypothesis:</p>
+ 
+                    <p><center>H0: Mean of employed group depression = Mean of active group depression<br>
+                    H1: Mean of employed group depression != Mean of active group depression</center></p>
+ 
+                    <p>Below are variables we need to conduct the p-test:</p>
+ 
+                    <p><b>Sample size:</b><br>
+                    $$N = 81$$</p>
+ 
+                    <p><b>Sample Means and Difference:</b><br>
+                    $$mean_{employed} = 5.323097530864199$$
+                    $$mean_{active} = 6.143745679012348$$
+                    $$diff = 0.8206481481481491$$</p>
+ 
+                    <p><b>Variances and Standard Deviation:</b><br>
+                    $$var_{employed} = 7.518851839243827$$<br>
+                    $$var_{active} = 8.508507546512345$$<br>
+                    $$s = \sqrt{{var_{employed} + var_{active}} \over 2} = 2.8308443427497183$$</p>
+                     
+                    <p><b>T-statistics and Degrees of Freedom:</b><br>
+                    $$t = {{mean_{employed} - mean_{active}} \over s\sqrt{2 \over N}} = -1.8448816686405103$$
+                    $$df = 2N – 2 = 160$$</p>
+                     
+                    <p><b>Final P-Value:</b><br>
+                    $$p-value = 0.0669035101009$$</p>
+                     
+                    <p>Using a 10% level of significance, we reject the null hypothesis and conclude that there is a difference in depression prevalence between active and employed groups.</p>
+
+                  </div>
+                </div>
               </div>
-              <div class="col-sm-3">
-                <p>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed. </p>
-                <p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail. </p>
-              </div>
+            </div>
+        </div>
+
+        <div class="col-md-12">
+            <h4 class="subheading more4">Life Satisfaction</h4>
+            <div class="col">
+                <div id="mental_illness_life_satisfaction" class="more2 plot"></div>
+                <div class="row-md-2">
+
+                  <p>Life satisfaction data was obtained from the World Happiness Report. The happiness level is self-ranked by participants from each country who ranked the quality of their lives from a scale of 0-10. Top ranked countries had common high values in areas including: income, life expectancy, social support, freedom, trust and generosity.</p>
+ 
+                  <p>Prior to plotting this graph, our team hypothesized that mental illness prevalence and life satisfaction would have a negative correlation—the higher the life satisfaction of a country, the lower the rate of mental illness, right?</p>
+                   
+                  <p>That is not what the data depicts, however.  In fact, the Pearson’s correlation coefficient between mental illness prevalence and life satisfaction is positive at 0.477. We conducted some research online to identify the cause of this positive correlation, and we came across studies that indicated that data on mental illness may be lacking in developing countries, which are often countries with lower life satisfaction. For example, a developed country such as Canada will educate students and parents on mental disorders from an early age, and universities will offer and encourage treatment. On the other hand, a developing country such as India may ignore the severity of mental illness, perhaps having the perspective that it is not a real concern or illness, given the other problems the country is facing such as poverty. Hence it is possible that a person from a country with lower life satisfaction such as India will not even realize that they are affected by mental illness due to lack of education. Or, they may be unwilling to admit their disease due to fear of shame or judgement.</p>
+
+                </div>
+            </div>
+        </div>
+
             </div>
           </div>
         </div>
