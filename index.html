@@ -112,7 +112,11 @@
             <div class="col">
                 <div class="row-sm-1">Nearly 1 in every 5 Americans suffer from a mental disorder in a given year. What about the rest of the world?</div>
                 <div class="row-sm-10 plot" id="map"></div>
-                <div class="row-sm-1"> The share of population with mental illness stayed fairly consistent for most countries between 1990 - 2017. </div>
+                <div class="row-sm-1"> 
+                  <p>As can be seen in the map above, the countries’ share of population with mental illness consistently falls between 9% to 17%. The countries that the highest mental illness prevalence include: United States, Australia, Greenland and Iran.</p>
+ 
+                  <p>The United States’ darkest period for mental illness fall between 2000 – 2009, which includes the time period when the 9/11 terrorist attack and financial crisis occurred. The 9/11 attack in 2000 resulted in almost 3K deaths and over 6K injuries. It led to a steep decline in the stock market index, followed by public backlash against those that came from specific race/religion groups.  Furthermore, the financial crisis starting in 2007 resulted in the loss of 8.7 million jobs in the US alone. Hence, it may be possible to attribute the high mental illness prevalence during these years to the economic and social repercussions of these two events.</p>
+                </div>
             </div>
             <div class="col">
                 <div class="row-sm-10 plot" id="deaths_rate_number"></div>
@@ -142,8 +146,8 @@
               <div class="col-md-2">
                 EXPLANATIONS 1
               </div>
-              <iframe class="col-md-10" width="1000" height="1000" frameborder="0" scrolling="no" src="//plot.ly/~CANada-2018/108.embed"></iframe>            </div>
-          </div>
+              <iframe class="col-md-10" width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~CANada-2018/110.embed"></iframe>
+            </div>
         </div>
         <button class="square-button padding-large light-grey more0 more-button0" style="margin-top:20px">SHOW MORE</button>
         <button class="square-button padding-large light-grey less0 less-button0" style="margin-top:20px">SHOW LESS</button>
@@ -163,35 +167,30 @@
         <div class="col-md-12">
           <h4 class="subheading">Age</h4>
           <div class="col">
-            <div class="row-md-4 more1">
+            <div class="row-md-3 more1">
               <div class="row">
                 <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/13.embed"></iframe>
                 <span class="col-md-2">TEXT HERE</span>
               </div>
             </div>
-            <div class="row-md-4 more1">
+            <div class="row-md-3 more1">
                 <div class="row">
-                    <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/11.embed"></iframe>
-                    <span class="col-md-2">TEXT HERE</span>
-                  </div>
+                  <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/11.embed"></iframe>
+                  <span class="col-md-2">TEXT HERE</span>
+                </div>
             </div>
-            <div class="row-md-4 less1">
-                <div class="row">
-                    <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/7.embed"></iframe>
-                    <span class="col-md-2">TEXT HERE</span>
+            <div class ="row-md-5 less1">
+              <div class="col">
+                <div class ="row-md-10">
+                  <div class="row">
+                    <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/10.embed"></iframe>
+                    <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/7.embed"></iframe>
                   </div>
-            </div>
-            <div class="row-md-4 less1">
-                <div class="row">
-                    <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/10.embed"></iframe>
-                    <span class="col-md-2">TEXT HERE</span>
-                  </div>
-            </div>
-            <div class="row-md-4 less1">
-                <div class="row">
-                    <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/3.embed"></iframe>
-                    <span class="col-md-2">TEXT HERE</span>
-                  </div>
+                </div>
+                <div class="row-md-2">
+                  TEXTS HERE
+                </div>
+              </div>
             </div>
             <div class="row-md-1">
               <button class="square-button padding-large light-grey more1 more-button1" style="margin-top:20px">SHOW MORE</button>
@@ -217,7 +216,41 @@
               <div class="row-md-4 more1">
                 <div class="row">
                   <iframe class="col-md-10" width="100%" height="450" frameborder="0" scrolling="no" src="//plot.ly/~judy.gong/14.embed"></iframe>
-                  <span class="col-md-2">TEXT HERE</span>
+                  <div class="row-md-2">
+                    <p>The above graph shows the global depression prevalence as a % of the population, based on education and employment. Education is split into 3 categories—below upper secondary, upper secondary and post-secondary, and tertiary education. Employment is split into 2 overlapping categories—active and employed. Active considers all people in the labour force—this includes those who are employed, but also those who are unemployed but looking for work.</p>
+ 
+                    <p>From the graph, it is clear that depression prevalence decreases as education level increases. Furthermore, depression prevalence is lower for employed rather than active, for all three levels of education. This negative correlation between depression prevalence and education/employment is intuitive—a person with higher education and is employed will on average experience more personal development, increased perspective of self-worth, and be more economically stable. Financial stability and self-fulfillment are contributing factors to the lower depression prevalence levels.</p> 
+
+                    <p>Let’s conduct a hypothesis test on the difference in means in depression prevalence between employed and active groups using a two-sided t-test. We first formulate our hypothesis:</p>
+ 
+                    <p>H0: Mean of employed group depression = Mean of active group depression
+                    H1: Mean of employed group depression != Mean of active group depression</p>
+ 
+                    <p>Below are variables we need to conduct the p-test:</p>
+ 
+                    <p>Sample size:<br>
+                    N = 81</p>
+ 
+                    <p>Sample Means and Difference:<br>
+                    a.mean = 5.323097530864199% (Mean depression % Employed)<br>
+                    b.mean = 6.143745679012348% (Mean depression % Active)<br>
+                    Mean difference = 0.8206481481481491</p>
+ 
+                    <p>Variances and Total Standard Deviation:<br>
+                    var_employed = 7.518851839243827<br>
+                    var_active = 8.508507546512345<br>
+                    s = sqrt[(var_employed+var_active)/2] = 2.8308443427497183</p>
+                     
+                    <p>T-statistics and Degrees of Freedom:<br>
+                    t = (a.mean - b.mean)/(s*np.sqrt(2/N)) = -1.8448816686405103<br>
+                    df = 2*N – 2 = 160</p>
+                     
+                    <p>Final P-Value:<br>
+                    p-value = 0.0669035101009 (obtained using Python based on above variables)</p>
+                     
+                    <p>Using a 10% level of significance, we reject the null hypothesis and conclude that there is a difference in depression prevalence between active and employed groups.</p>
+
+                  </div>
                 </div>
               </div>
             </div>
@@ -227,6 +260,15 @@
             <h4 class="subheading more4">Life Satisfaction</h4>
             <div class="col">
                 <div id="mental_illness_life_satisfaction" class="more2 plot"></div>
+                <div class="row-md-2">
+
+                  <p>Life satisfaction data was obtained from the World Happiness Report. The happiness level is self-ranked by participants from each country who ranked the quality of their lives from a scale of 0-10. Top ranked countries had common high values in areas including: income, life expectancy, social support, freedom, trust and generosity.</p>
+ 
+                  <p>Prior to plotting this graph, our team hypothesized that mental illness prevalence and life satisfaction would have a negative correlation—the higher the life satisfaction of a country, the lower the rate of mental illness, right?</p>
+                   
+                  <p>That is not what the data depicts, however.  In fact, the Pearson’s correlation coefficient between mental illness prevalence and life satisfaction is positive at 0.477. We conducted some research online to identify the cause of this positive correlation, and we came across studies that indicated that data on mental illness may be lacking in developing countries, which are often countries with lower life satisfaction. For example, a developed country such as Canada will educate students and parents on mental disorders from an early age, and universities will offer and encourage treatment. On the other hand, a developing country such as India may ignore the severity of mental illness, perhaps having the perspective that it is not a real concern or illness, given the other problems the country is facing such as poverty. Hence it is possible that a person from a country with lower life satisfaction such as India will not even realize that they are affected by mental illness due to lack of education. Or, they may be unwilling to admit their disease due to fear of shame or judgement.</p>
+
+                </div>
             </div>
             <button class="square-button padding-large light-grey more4 more-button4" style="margin-top:20px">SHOW MORE</button>
             <button class="square-button padding-large light-grey less4 less-button4" style="margin-top:20px">SHOW LESS</button>
