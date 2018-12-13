@@ -8,6 +8,7 @@ $(document).ready(function(e) {
     'mental_illness_life_satisfaction',
     'mental_illness_map_over_years',
     'deaths_rate_number',
+    'deaths_prevalence_countries'
     'map'
     ]
     graphs.forEach(function(graph) {
