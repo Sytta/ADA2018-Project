@@ -66,3 +66,11 @@ The link contains many datasets in CSV format. One dataset in particular include
 
 # Questions for TAa
 - Do we need to find all our datasets before beginning the project? We expect to need to have to research for more data when we will be doing the project. Is it acceptable?
+
+# Contributions of Group Members to Milestone 3
+
+**Yawen:** Create structure of HTML for data story, find facts for introduction, graph prevalence of the different types of mental illnesses per continent. Create two separate graphs to allow for easier comparison between mental illness prevalences, and between countries. Create graphs and complete analysis for gender-related segmantation of mental illnesses, and highlight any possible causes of the discrepancy. Upload onto data story.
+
+**Judy:** Conduct statistical hypothesis test for difference in prevalence between employed & active groups. Plot choropleth map graph of mental illness prevalence over years, clean up employment/education dataset and plot its correlation with depression prevalence. Get life satisfaction of countries data and build bubble chart with mental illness prevalence vs life satisfaction over years. Upload graphs and completed analysis onto data story. 
+
+**Rebecca:** Plot graph for death rates vs total deaths per country over years, categorized by continent. Build graph for death rates vs prevalence of mental illness over years, and explain any underlying trends. Build graphs for any age-related segmentation, including segmenting by age+location, age+illness, for both deaths and prevalence data. Analyze all plots, provide explanations and upload onto data story. 

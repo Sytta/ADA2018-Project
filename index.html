@@ -150,20 +150,23 @@
  
                   <p>Today, it is widely accepted by major scientific associations that addiction is a "brain disease". The DSM-V lists criteria for classifying addictions as mental health condition is called "Substance Use Disorder." Prior to 2016, the dataset provided by GHDx also included "Substance Use Disorder" as a type of "Mental Disorder".</p>
 
-                  <p>For all the analysis on deaths caused by mental illness, we included alcohol use and drug use disorders to make it more comprehensive. If we take a look at the number of deaths caused by mental disorders, we can see that substance use disorders (drug and alcohol use) contribute to more than 100 k deaths per year. Specifically, Russian, Australia, the United States and Nordic countries appear to have the highest direct deaths rates reported from substance use disorders in 2016. China, India and the United States had the highest direct deaths from anorexia and bulimia nervosa, with more than 60 deaths each in 2016. </p>
+                </div>
+            </div>
+            <div class="col">
+                <div class="row-sm-10 plot" id="deaths_prevalence_countries"></div>
+            </div>
+            <div class="col">
+              <div class="row-md-5" id="DALY_per_mentail_illness_continent"></div>
+              <div class="row-md-6">
+                  <p>For all the analysis on deaths caused by mental illness (graph below), we included alcohol use and drug use disorders to make it more comprehensive. If we take a look at the number of deaths caused by mental disorders, we can see that substance use disorders (drug and alcohol use) contribute to more than 100 k deaths per year. Specifically, Russian, Australia, the United States and Nordic countries appear to have the highest direct deaths rates reported from substance use disorders in 2016. China, India and the United States had the highest direct deaths from anorexia and bulimia nervosa, with more than 60 deaths each in 2016. </p>
 
                   <p> Let's take the look at the total number of mental disorder related deaths. Russia had the highest death rate at over 25 deaths per 100,000; this was followed closely by the United States with just over 24 per 100,000. Furthermore. it is worth noting that Russia has a decreasing death rates after peaking at 50 deaths per 100,000 in 2005, whereas the death rates for the United States has been increasing since 1990.  </p>
 
                   <p>Panama, Mexico and Nicaragua had a relatively low prevalence of mental illness of 12% comparing to other North America countries such as Canada (18%) and the United States (21%) in 2016. It is also reported that the world lowest suicide rates are concentrated in the Caribbean Islands. Perhaps surprisingly, only about 0.3 deaths per 100,000 were reported in Egypt. </p>
 
                   <p>These mental disordered related deaths do not include indirect suicide deaths and doctor-assisted suicide, which may significantly underestimate the true mortality impact of such disorders. </p>
-
-                </div>
+              </div>
             </div>
-            <div class="col">
-                <div class="row-sm-10 plot" id="deaths_prevalence_countries"></div>
-            </div>
-            <div class="row-sm-5" id="DALY_per_mentail_illness_continent"></div>
         </div>
       </div>
     </section>
@@ -262,7 +265,7 @@
 
         <div class="col-md-2">
           <h2 class="heading">Demographics</h2>
-          <div class="row-md-2"> TEXT HERE EXPLAINING</div>
+          <div class="col-md-2"> In this section, we will look at the distribution of the mental illness <b>separately by Age and Gender</b>. Who do you think are the most at risk?</div>
         </div>
 
         <div class="col-md-12">
@@ -307,8 +310,20 @@
               <div class="col">
                 <div class ="row-md-10">
                   <div class="row">
-                    <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/10.embed"></iframe>
+                  <!-- <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/10.embed"></iframe> -->
                     <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/7.embed"></iframe>
+                    <span class="col-md-3">
+                      <p>This graph shows the prevalence of people with mental disorders for each age range worldwide. </p>
+
+                     <p> Comparing with the first graph in this section, we can see a similar trend where mental disorders are most prevalence in adulthood.
+                      <ul>
+                        <li>Every age group is affected by depression. Certain times of life can make us more susceptible. </li>
+                        <li>During infancy, 2.5% of this population starts to experience mental disorders, mainly anxiety disorders. The prevalence of mental disorders increases significantly for youth (12.6%)  and young adolescents (16.6%). </li>
+                        <li>Approximately 1 in 5 adults globally, or 18.5% experiences mental illness in a given year. </li>
+                      </ul>
+                    </p>
+                   </span>
+
                   </div>
                 </div>
                 <div class="row-md-2">
@@ -357,7 +372,7 @@
  
                     <p>From the graph, it is clear that depression prevalence decreases as education level increases. Furthermore, depression prevalence is lower for employed rather than active, for all three levels of education. This negative correlation between depression prevalence and education/employment is intuitive—a person with higher education and is employed will on average experience more personal development, increased perspective of self-worth, and be more economically stable. Financial stability and self-fulfillment are contributing factors to the lower depression prevalence levels.</p><br> 
                     
-                    <p>With the datas above, we performed a hypothesis testing, and by with a p-value of <b><0.0669035101009</b>, which made us conclude that there is a significant difference in depression prevalence between active and employed groups. As seen above, unemployed people tend to be more depressed. (Details in <b>Show More</b>)</p>
+                    <p>We decided to perform a hypothesis test to test the difference in depression prevalence between the active and employed groups. Using a two-sided t-test, we arrived at a final p-value of <b>0.0669035101009</b>. Using a 10% significance level, we rejected our null hypothesis and concluded that there is a significant difference in depression prevalence between active and employed groups. As seen above, unemployed people tend to be more depressed. (Details of the hypothesis formulation and calculations in <b>Show More</b>)</p>
 
                   </span>
                   <span class="row-md-4 less6">
