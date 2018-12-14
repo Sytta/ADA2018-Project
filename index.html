@@ -180,11 +180,24 @@
           <div class="row-md-5">
             <div class="col">
               <div class="row-md-2">
+                  <p>
+                    A <a href="http://apps.who.int/iris/bitstream/handle/10665/254610/WHO-MSD-MER-2017.2-eng.pdf?sequence=1
+                          ">research</a>
+                    by World Health Organization (WHO) determined that the two most common mental disorders are anxiety and
+                    depression. Let’s see if it is true.
+                    <b>Instructions: Hover to see the percentage and the raw number of the population for each mental disorder.</b>
+                  </p>
+                  <p>
+                      The percentages in the following graph is obtained by: (People having Depressive disorder)/(Toal number of people having mental disorders.)
+                  </p>
+                  <div class="plot" id="prevalence_gender_disorder_share_global"></div>
+                  <p>
+                    Indeed, among all the people having mental disorders, <b>more than 50%</b> are victims of either anxiety or depressive disorders. On a global scale, only very few people have schizophrenia and eating disorders, despite the increasing cases of obesity and the general fashion trend that values skinniness.
+                  </p>
+              </div>
+              <div class="row-md-2">
                 <p>
-                  A <a href="http://apps.who.int/iris/bitstream/handle/10665/254610/WHO-MSD-MER-2017.2-eng.pdf?sequence=1
-                        ">research</a>
-                  by World Health Organization (WHO) determined that the two most common mental disorders are anxiety and
-                  depression. Let’s see if it is true.
+                  <b> Let's take a closer look at the trend per mental disorder in different parts of the world.</b>
                 </p>
                 <p>
                   <b>Instruction: Double-click on the label (mental disorder) to view one mental disorder only at a time.
@@ -197,8 +210,8 @@
                   <div class="col-md-9 plot" id="prevalence_perc_cause"></div>
                   <div class="col-md-3">
                     <p>
-                      As we can see, in this graph of population percentage (ill people / total population) per continent,
-                      anxiety and depression are the top mental illness per country. We can also observe that Americas
+                      As we can see, in this graph of population percentage (ill people / total population), in every continent,
+                      anxiety and depression are the top mental illnesses. We can also observe that Americas
                       generally have a higher percentage of mentally ill population among all continents, varying from
                       0.23% to 5.3% over the years, followed by Europe, varying from 0.24% to 4.46%. Interestingly, these
                       are the richest and most developed countries. While researchers cannot give an explanation for this
@@ -212,8 +225,10 @@
 
           <div class="row-md-1">
             <p>
-              While the prevalence percentage of anxiety and depressive disorders steadily increases by small rate over
-              years, we notice a steady decrease in related with childhood mental disorders, i.e. conduct disorders,
+              On a general trend, we noticed that the prevalence percentage of anxiety and depressive disorders steadily increases by small rate over years. It seems that the advancement in the technologies intended to make people life better did not necessarily made the population over the world happier. According to <a href="https://www.sciencedirect.com/science/article/pii/S0149763405001326">a study by Lambert in 2006</a>, this is related to the change in our lifestyle. The effort-based rewards, defined as a base level of physical activity to provide life's basic resources, has diminished over years as our society turned more industrialized, technologically advanced and service-oriented. 
+            </p>
+            <p>
+              We also noticed a steady decrease in related with childhood mental disorders, i.e. conduct disorders,
               Attention-Deficit/Hyperactivity Disorder (ADHD) and Idiopathic developmental intellectual disability. This
               might be due to medical advances and a wider social acceptance of these diseases.
             </p>
@@ -242,8 +257,8 @@
             <p>
               Africa has the highest population share for Attention-Deficit/Hyperactivity Disorder (ADHD) and Conduct
               disorders (not surprising since this is related to ADHD). A study from M. Döpfner et al. (2008) has related
-              higher prevalence of ADHD in families of lower socioeconomic status and families from urban areas, but this
-              doesn’t explain why Americans ended up ranking second.
+              higher prevalence of ADHD with families of lower socioeconomic status and families from urban areas, but this
+              doesn’t explain why Americans end in second place in the ranking.
             </p>
             <p>
               Surprisingly, while there is a general stereotype portraying how asian (especially East Asian) students are
@@ -262,11 +277,8 @@
     <!-- demographics -->
     <section id="demographics">
       <div class="container">
-
-        <div class="col-md-2">
-          <h2 class="heading">Demographics</h2>
-          <div class="col-md-2"> In this section, we will look at the distribution of the mental illness <b>separately by Age and Gender</b>. Who do you think are the most at risk?</div>
-        </div>
+        <h2 class="heading">Demographics</h2>
+        <div class="col-md-12"> In this section, we will look at the distribution of the mental illness <b>separately by Age and Gender</b>. Who do you think are the most at risk?</div>
 
         <div class="col-md-12">
           <h4 class="subheading">Age</h4>
@@ -310,20 +322,19 @@
               <div class="col">
                 <div class ="row-md-10">
                   <div class="row">
-                  <!-- <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/10.embed"></iframe> -->
-                    <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/7.embed"></iframe>
-                    <span class="col-md-3">
-                      <p>This graph shows the prevalence of people with mental disorders for each age range worldwide. </p>
+                   <!-- <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/10.embed"></iframe> -->
+                   <iframe class="col-md-6" width="700" height="450" frameborder="0" scrolling="no" src="//plot.ly/~RebeccaCheng9797/7.embed"></iframe>
+                   <span class="col-md-3">
+                     <p>This graph shows the prevalence of people with mental disorders for each age range worldwide. </p>
 
-                     <p> Comparing with the first graph in this section, we can see a similar trend where mental disorders are most prevalence in adulthood.
+                    <p> Comparing with the first graph in this section, we can see a similar trend where mental disorders are most prevalence in adulthood.
                       <ul>
                         <li>Every age group is affected by depression. Certain times of life can make us more susceptible. </li>
                         <li>During infancy, 2.5% of this population starts to experience mental disorders, mainly anxiety disorders. The prevalence of mental disorders increases significantly for youth (12.6%)  and young adolescents (16.6%). </li>
                         <li>Approximately 1 in 5 adults globally, or 18.5% experiences mental illness in a given year. </li>
                       </ul>
                     </p>
-                   </span>
-
+                    </span>
                   </div>
                 </div>
                 <div class="row-md-2">
@@ -341,9 +352,18 @@
         <div class="col-md-12">
             <h4 class="subheading more2">Gender</h4>
             <div class="col">
-                <div id="prevalence_gender_disorder_share_global" class="more2 plot"></div>
-                <div id="share_gender_continent" class="more2 plot"></div>
-                <div id="prevalence_gender_share_per_country" class="less2 plot"></div>
+              <div class="row-md-6 more2">
+                  <div id="figure_gender_loc" class="plot"></div>
+                  <p>
+                    Texts here
+                  </p>
+              </div>
+              <div class="row-md-6 less2">
+                <div id="prevalence_gender_share_per_country" class="plot"></div>
+                <p>
+                    Texts 2 here
+                </p>
+              </div>
             </div>
             <button class="square-button padding-large light-grey more2 more-button2" style="margin-top:20px">SHOW MORE</button>
             <button class="square-button padding-large light-grey less2 less-button2" style="margin-top:20px">SHOW LESS</button>
