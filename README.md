@@ -1,6 +1,6 @@
 # Who is at Risk for Mental Illness?
 
-# Data Story: https://sytta.github.io/ADA2018-Project/#world
+#### Data Story: https://sytta.github.io/ADA2018-Project
 
 # Abstract
 
