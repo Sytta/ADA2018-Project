@@ -42,7 +42,7 @@
   </head>
   <body data-spy="scroll" data-target="#navigation" data-offset="120">
     <!-- intro-->
-    <section id="start" style="background-image: url('img/ein-steig.jpg');" class="intro">
+    <section id="start" style="background-image: url('img/bg.jpg');" class="intro">
       <!-- particles.js container -->
       <div class="overlay"></div>
       <div class="content">
@@ -68,7 +68,7 @@
         <div role="navigation" class="navbar navbar-default">
           <div class="container">
             <div class="navbar-header">
-              <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-btn btn-sm navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="#intro" class="navbar-brand scroll-to"><img src="img/logo.png" alt=""></a>
+              <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-btn btn-sm navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="#start" class="navbar-brand scroll-to"><img src="canADA.png" style="height: 10; width: 30;" alt=""></a>
             </div>
             <div id="navigation" class="collapse navbar-collapse navbar-right">
               <ul class="nav navbar-nav">
@@ -77,6 +77,7 @@
                 <li><a href="#mental_disorders">Mental Disorders</a></li>
                 <li><a href="#demographics">Demographics</a></li>
                 <li><a href="#insights">Insights</a></li>
+                <li><a href="#conclusion">Conclusion</a></li>
               </ul>
             </div>
           </div>
@@ -119,7 +120,7 @@
               </div>
               <div class="row-sm-6">
                 <p>
-                  In this project, we will mainly look at the prevalence of mental disorders over the world. We will also look at its impact (quantified with Disability-Adjusted Life Year (DALY)) and its correlation with Life Satisfaction, Education and Employment with chosen environment. Our data comes from the <a href="http://www.healthdata.org/gbd">Global Burden of Disease (GBD)</a> database.
+                  In this project, we will mainly look at the prevalence of mental disorders over the world. We will also look at its impact (quantified with Disability-Adjusted Life Year (DALY)) and its correlation with Life Satisfaction, Education and Employment with chosen environment. Our data comes from the <a href="http://www.healthdata.org/gbd">Global Burden of Disease (GBD)</a> database. This is a database maintained by The Institute for Health Metrics and Evaluation (IHME), part of the University of Washington, and provide rigurous data about the world population health. Their dataaset provide the various causes of illness, including physical and mental illness, from 1990-2017. All the data of this project have been retrieved from the GBD, which we cleaned and analyzed using techniques learnt from the EPFL ADA course.
                 </p>
               </div>
             </div>
@@ -148,7 +149,7 @@
             <div class="col">
                 <div class="row-sm-10 plot" id="deaths_rate_number"></div>
                 <div class="row-sm-1"> 
-                  <p>Mental disorders related deaths occur throughout the world, affecting individuals of all nations, cultures, religions and genders. We can see from the graph below  that the prevalence of mental disorders does not show a direct relationship with the death rates. In fact, statistics show that countries with highest mental disorder related death rates in the world are incredibly diverse. </p>
+                  <p>Mental disorders related deaths occur throughout the world, affecting individuals of all nations, cultures, religions and genders. We can see from the graph below  that the prevalence of mental disorders does not show a direct relationship with the death rates. We also realize that the increase in death number is not only caused by the increase of the population, since the death rate (number of death over 100 000 people) also increases over years. In fact, statistics show that countries with highest mental disorder related death rates in the world are incredibly diverse. </p>
  
                   <p>Today, it is widely accepted by major scientific associations that addiction is a "brain disease". The DSM-V lists criteria for classifying addictions as mental health condition is called "Substance Use Disorder." Prior to 2016, the dataset provided by GHDx also included "Substance Use Disorder" as a type of "Mental Disorder".</p>
 
@@ -160,7 +161,7 @@
             <div class="col">
               <div class="row-md-5" id="DALY_per_mentail_illness_continent"></div>
               <div class="row-md-6">
-                  <p>For all the analysis on deaths caused by mental illness (graph below), we included alcohol use and drug use disorders to make it more comprehensive. If we take a look at the number of deaths caused by mental disorders, we can see that substance use disorders (drug and alcohol use) contribute to more than 100 k deaths per year. Specifically, Russian, Australia, the United States and Nordic countries appear to have the highest direct deaths rates reported from substance use disorders in 2016. China, India and the United States had the highest direct deaths from anorexia and bulimia nervosa, with more than 60 deaths each in 2016. </p>
+                  <p>For all the analysis on deaths caused by mental illness (graph just above), we included alcohol use and drug use disorders to make it more comprehensive. If we take a look at the number of deaths caused by mental disorders, we can see that substance use disorders (drug and alcohol use) contribute to more than 100 k deaths per year. Specifically, Russia, Australia, the United States and Nordic countries appear to have the highest direct deaths rates reported from substance use disorders in 2016. China, India and the United States had the highest direct deaths from anorexia and bulimia nervosa, with more than 60 deaths each in 2016. </p>
 
                   <p> Let's take the look at the total number of mental disorder related deaths. Russia had the highest death rate at over 25 deaths per 100,000; this was followed closely by the United States with just over 24 per 100,000. Furthermore. it is worth noting that Russia has a decreasing death rates after peaking at 50 deaths per 100,000 in 2005, whereas the death rates for the United States has been increasing since 1990.  </p>
 
@@ -466,6 +467,19 @@
         </div>
     </section>
     <!-- insights page end-->
+
+    <!-- some conclusions -->
+    <section id="conclusion" style="background-color: #eee">
+      <div class="container">
+        <h2 class="heading">Conclusion</h2>
+        <p>
+          From our project, we can see that mental disorders can occur to everyone in the world, and the rate of occurance is slowly increasing over the years. Mental health disorders are complex and can take many forms. The cure for certain disorders is still unknown, and moreoever, many people do not realize that they are affected by a disorder (this is especially true for depression and anxiety). 
+
+          All the datas collected by IHME are based on a combination of sources, including medical and national records, epidemiological data, in addition to survey data. To go farther in our analysis and to assure the quality of our data, we will have to collect data from other similar datase and do a comparison. This way, we could be certain that our interpretations are precise and accurate.
+        </p>
+    </div>
+    </section>
+    <!-- some conclusions -->
 
     <!-- <div id="map"></div> -->
     <footer style="background-color: black;" class="section-inverse">
